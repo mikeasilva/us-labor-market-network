@@ -12,11 +12,15 @@ The raw data provided the nodes and edges for the analysis.  The number of worke
 2.  If the number of workers (edge weight) was under a threshold;  
 3.  If the data was too unreliable (meaning the margin of error to estimate ratio over a threshold).  
 
-Through a trial and error process I settled on parameters for the three criteria that left data for 97% of the counties in the orignal set and 6% of the edges.  I have left two other cases using alternative parameters.  I used the NetworkX library to create the graph and then exported it as a graphml file. 
+Through a trial and error process [I settled on parameters](https://raw.githubusercontent.com/mikeasilva/us-labor-market-network/master/Create%20Loose%20U.S.%20Labor%20Market%20Graph.py) for the three criteria that left data for 97% of the counties in the orignal set and 6% of the edges.  I have left two other cases using alternative parameters.  I used the NetworkX library to create the graph and then exported it as a [graphml file](https://raw.githubusercontent.com/mikeasilva/us-labor-market-network/master/U.S.%20Labor%20Market.graphml). 
 
 ## Network Clustering
 I used Gephi to analyze the graph and discover the clusters.  I used the modularity community detection algorithm.  To make the results reproducable I unchecked the "Randomize" option but left all other options with their default settings as shown here:
 
 ![Modularity Settings](modularity-settings.png)
 
+## Results
 This resulted in 51 communities being discovered.
+![51 Communities](U.S. Labor Market.png)
+
+These results were quickly examined in [R](https://raw.githubusercontent.com/mikeasilva/us-labor-market-network/master/Maps.Rmd) and for the most part I am happy with the findings.
