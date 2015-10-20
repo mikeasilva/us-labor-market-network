@@ -1,0 +1,63 @@
+---
+title: "U.S. Labor Market Map"
+author: "by Mike Silva"
+output: 
+  html_document: 
+    keep_md: yes
+---
+This R script takes output from Gephi and draws maps.  There are three data sets: the prefered U.S. Labor Market, strict definitions and loose definitions.
+
+```{r, message=FALSE, warning=FALSE}
+library(dplyr)
+nodes <- read.csv('U.S. Labor Market [Nodes].csv', colClasses = rep('character', 4)) %>%
+  mutate(Class.Number = as.numeric(Modularity.Class)) %>%
+  mutate(Modularity.Class = as.factor(Modularity.Class)) %>%
+  arrange(Class.Number, fips)
+
+nodes.strict <- read.csv('U.S. Labor Market-Strict [Nodes].csv', colClasses = rep('character', 4)) %>%
+  mutate(Class.Number = as.numeric(Modularity.Class)) %>%
+  mutate(Modularity.Class = as.factor(Modularity.Class)) %>%
+  arrange(Class.Number, fips)
+
+nodes.loose <- read.csv('U.S. Labor Market-Loose [Nodes].csv', colClasses = rep('character', 4)) %>%
+  mutate(Class.Number = as.numeric(Modularity.Class)) %>%
+  mutate(Modularity.Class = as.factor(Modularity.Class)) %>%
+  arrange(Class.Number, fips)
+```
+
+This is the function that will draw the plots.  Since Puerto Rico is not included in the map I am pulling the data out.
+```{r, message=FALSE, warning=FALSE}
+library(choroplethr)
+
+print_plots <- function (df){
+  df <- df[grep('Puerto Rico', df$Label, invert=T),]
+  
+  class.numbers <- unique(df$Class.Number)
+  
+  for(class.number in class.numbers) {
+    plot <- df %>%
+      filter(Class.Number == class.number) %>%
+      rename(region = fips) %>%
+      rename(value = Class.Number) %>%
+      select(region, value) %>%
+      mutate(region = as.numeric(region)) %>%
+      county_choropleth(., title=paste0('Group Number ',class.number))
+    print(plot)
+  }  
+}
+```
+
+## U.S. Labor Market Maps
+```{r, message=FALSE, warning=FALSE}
+print_plots(nodes)
+```
+
+## Strict U.S. Labor Market Maps
+```{r, message=FALSE, warning=FALSE}
+print_plots(nodes.strict)
+```
+
+## Loose U.S. Labor Market Maps
+```{r, message=FALSE, warning=FALSE}
+print_plots(nodes.loose)
+```
