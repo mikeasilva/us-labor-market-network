@@ -1,0 +1,3222 @@
+Id,Label,fips,Modularity Class
+0,"Autauga County, Alabama",01001,6
+1,"Baldwin County, Alabama",01003,6
+2,"Barbour County, Alabama",01005,6
+3,"Bibb County, Alabama",01007,6
+4,"Blount County, Alabama",01009,6
+5,"Bullock County, Alabama",01011,6
+6,"Butler County, Alabama",01013,6
+7,"Calhoun County, Alabama",01015,6
+8,"Chambers County, Alabama",01017,6
+9,"Cherokee County, Alabama",01019,2
+10,"Chilton County, Alabama",01021,6
+11,"Choctaw County, Alabama",01023,6
+12,"Clarke County, Alabama",01025,6
+13,"Clay County, Alabama",01027,6
+14,"Cleburne County, Alabama",01029,2
+15,"Coffee County, Alabama",01031,6
+16,"Colbert County, Alabama",01033,6
+17,"Conecuh County, Alabama",01035,6
+18,"Coosa County, Alabama",01037,6
+19,"Covington County, Alabama",01039,6
+20,"Crenshaw County, Alabama",01041,6
+21,"Cullman County, Alabama",01043,6
+22,"Dale County, Alabama",01045,6
+23,"Dallas County, Alabama",01047,6
+24,"DeKalb County, Alabama",01049,6
+25,"Elmore County, Alabama",01051,6
+26,"Escambia County, Alabama",01053,6
+27,"Etowah County, Alabama",01055,6
+28,"Fayette County, Alabama",01057,6
+29,"Franklin County, Alabama",01059,6
+30,"Geneva County, Alabama",01061,6
+31,"Greene County, Alabama",01063,6
+32,"Hale County, Alabama",01065,6
+33,"Henry County, Alabama",01067,6
+34,"Houston County, Alabama",01069,6
+35,"Jackson County, Alabama",01071,2
+36,"Jefferson County, Alabama",01073,6
+37,"Lamar County, Alabama",01075,6
+38,"Lauderdale County, Alabama",01077,6
+39,"Lawrence County, Alabama",01079,6
+40,"Lee County, Alabama",01081,6
+41,"Limestone County, Alabama",01083,6
+42,"Lowndes County, Alabama",01085,6
+43,"Macon County, Alabama",01087,6
+44,"Madison County, Alabama",01089,6
+45,"Marengo County, Alabama",01091,6
+46,"Marion County, Alabama",01093,6
+47,"Marshall County, Alabama",01095,6
+48,"Mobile County, Alabama",01097,6
+49,"Monroe County, Alabama",01099,6
+50,"Montgomery County, Alabama",01101,6
+51,"Morgan County, Alabama",01103,6
+52,"Perry County, Alabama",01105,6
+53,"Pickens County, Alabama",01107,6
+54,"Pike County, Alabama",01109,6
+55,"Randolph County, Alabama",01111,2
+56,"Russell County, Alabama",01113,6
+57,"St. Clair County, Alabama",01115,6
+58,"Shelby County, Alabama",01117,6
+59,"Sumter County, Alabama",01119,6
+60,"Talladega County, Alabama",01121,6
+61,"Tallapoosa County, Alabama",01123,6
+62,"Tuscaloosa County, Alabama",01125,6
+63,"Walker County, Alabama",01127,6
+64,"Washington County, Alabama",01129,6
+65,"Wilcox County, Alabama",01131,6
+66,"Winston County, Alabama",01133,6
+67,"Aleutians East Borough, Alaska",02013,24
+68,"Aleutians West Census Area, Alaska",02016,24
+69,"Anchorage Municipality, Alaska",02020,24
+70,"Bethel Census Area, Alaska",02050,24
+71,"Bristol Bay Borough, Alaska",02060,24
+72,"Denali Borough, Alaska",02068,24
+73,"Dillingham Census Area, Alaska",02070,24
+74,"Fairbanks North Star Borough, Alaska",02090,24
+75,"Haines Borough, Alaska",02100,24
+76,"Hoonah-Angoon Census Area, Alaska",02105,24
+77,"Juneau City and Borough, Alaska",02110,24
+78,"Kenai Peninsula Borough, Alaska",02122,24
+79,"Ketchikan Gateway Borough, Alaska",02130,24
+80,"Kodiak Island Borough, Alaska",02150,24
+81,"Lake and Peninsula Borough, Alaska",02164,24
+82,"Matanuska-Susitna Borough, Alaska",02170,24
+83,"Nome Census Area, Alaska",02180,24
+84,"North Slope Borough, Alaska",02185,24
+85,"Northwest Arctic Borough, Alaska",02188,24
+86,"Petersburg Census Area, Alaska",02195,24
+87,"Prince of Wales-Hyder Census Area, Alaska",02198,24
+88,"Sitka City and Borough, Alaska",02220,24
+89,"Skagway Municipality, Alaska",02230,24
+90,"Southeast Fairbanks Census Area, Alaska",02240,24
+91,"Valdez-Cordova Census Area, Alaska",02261,24
+92,"Wade Hampton Census Area, Alaska",02270,24
+93,"Wrangell City and Borough, Alaska",02275,24
+94,"Yakutat City and Borough, Alaska",02282,24
+95,"Yukon-Koyukuk Census Area, Alaska",02290,24
+96,"Apache County, Arizona",04001,0
+97,"Cochise County, Arizona",04003,0
+98,"Coconino County, Arizona",04005,0
+99,"Gila County, Arizona",04007,0
+100,"Graham County, Arizona",04009,0
+101,"Greenlee County, Arizona",04011,0
+102,"La Paz County, Arizona",04012,0
+103,"Maricopa County, Arizona",04013,0
+104,"Mohave County, Arizona",04015,0
+105,"Navajo County, Arizona",04017,0
+106,"Pima County, Arizona",04019,0
+107,"Pinal County, Arizona",04021,0
+108,"Santa Cruz County, Arizona",04023,0
+109,"Yavapai County, Arizona",04025,0
+110,"Yuma County, Arizona",04027,0
+111,"Arkansas County, Arkansas",05001,8
+112,"Ashley County, Arkansas",05003,8
+113,"Baxter County, Arkansas",05005,8
+114,"Benton County, Arkansas",05007,8
+115,"Boone County, Arkansas",05009,8
+116,"Bradley County, Arkansas",05011,8
+117,"Calhoun County, Arkansas",05013,8
+118,"Carroll County, Arkansas",05015,8
+119,"Chicot County, Arkansas",05017,8
+120,"Clark County, Arkansas",05019,8
+121,"Clay County, Arkansas",05021,19
+122,"Cleburne County, Arkansas",05023,8
+123,"Cleveland County, Arkansas",05025,8
+124,"Columbia County, Arkansas",05027,8
+125,"Conway County, Arkansas",05029,8
+126,"Craighead County, Arkansas",05031,19
+127,"Crawford County, Arkansas",05033,8
+128,"Crittenden County, Arkansas",05035,19
+129,"Cross County, Arkansas",05037,19
+130,"Dallas County, Arkansas",05039,8
+131,"Desha County, Arkansas",05041,8
+132,"Drew County, Arkansas",05043,8
+133,"Faulkner County, Arkansas",05045,8
+134,"Franklin County, Arkansas",05047,8
+135,"Fulton County, Arkansas",05049,8
+136,"Garland County, Arkansas",05051,8
+137,"Grant County, Arkansas",05053,8
+138,"Greene County, Arkansas",05055,19
+139,"Hempstead County, Arkansas",05057,8
+140,"Hot Spring County, Arkansas",05059,8
+141,"Howard County, Arkansas",05061,8
+142,"Independence County, Arkansas",05063,8
+143,"Izard County, Arkansas",05065,8
+144,"Jackson County, Arkansas",05067,8
+145,"Jefferson County, Arkansas",05069,8
+146,"Johnson County, Arkansas",05071,8
+147,"Lafayette County, Arkansas",05073,6
+148,"Lawrence County, Arkansas",05075,19
+149,"Lee County, Arkansas",05077,19
+150,"Lincoln County, Arkansas",05079,8
+151,"Little River County, Arkansas",05081,8
+152,"Logan County, Arkansas",05083,8
+153,"Lonoke County, Arkansas",05085,8
+154,"Madison County, Arkansas",05087,8
+155,"Marion County, Arkansas",05089,8
+156,"Miller County, Arkansas",05091,8
+157,"Mississippi County, Arkansas",05093,19
+158,"Monroe County, Arkansas",05095,19
+159,"Montgomery County, Arkansas",05097,8
+160,"Nevada County, Arkansas",05099,8
+161,"Newton County, Arkansas",05101,8
+162,"Ouachita County, Arkansas",05103,8
+163,"Perry County, Arkansas",05105,8
+164,"Phillips County, Arkansas",05107,19
+165,"Pike County, Arkansas",05109,8
+166,"Poinsett County, Arkansas",05111,19
+167,"Polk County, Arkansas",05113,8
+168,"Pope County, Arkansas",05115,8
+169,"Prairie County, Arkansas",05117,8
+170,"Pulaski County, Arkansas",05119,8
+171,"Randolph County, Arkansas",05121,19
+172,"St. Francis County, Arkansas",05123,19
+173,"Saline County, Arkansas",05125,8
+174,"Scott County, Arkansas",05127,8
+175,"Searcy County, Arkansas",05129,8
+176,"Sebastian County, Arkansas",05131,8
+177,"Sevier County, Arkansas",05133,8
+178,"Sharp County, Arkansas",05135,8
+179,"Stone County, Arkansas",05137,8
+180,"Union County, Arkansas",05139,8
+181,"Van Buren County, Arkansas",05141,8
+182,"Washington County, Arkansas",05143,8
+183,"White County, Arkansas",05145,8
+184,"Woodruff County, Arkansas",05147,8
+185,"Yell County, Arkansas",05149,8
+186,"Alameda County, California",06001,10
+187,"Alpine County, California",06003,10
+188,"Amador County, California",06005,10
+189,"Butte County, California",06007,10
+190,"Calaveras County, California",06009,10
+191,"Colusa County, California",06011,10
+192,"Contra Costa County, California",06013,10
+193,"Del Norte County, California",06015,10
+194,"El Dorado County, California",06017,10
+195,"Fresno County, California",06019,0
+196,"Glenn County, California",06021,10
+197,"Humboldt County, California",06023,10
+198,"Imperial County, California",06025,0
+199,"Inyo County, California",06027,10
+200,"Kern County, California",06029,0
+201,"Kings County, California",06031,0
+202,"Lake County, California",06033,10
+203,"Lassen County, California",06035,10
+204,"Los Angeles County, California",06037,0
+205,"Madera County, California",06039,0
+206,"Marin County, California",06041,10
+207,"Mariposa County, California",06043,10
+208,"Mendocino County, California",06045,10
+209,"Merced County, California",06047,10
+210,"Modoc County, California",06049,10
+211,"Mono County, California",06051,10
+212,"Monterey County, California",06053,10
+213,"Napa County, California",06055,10
+214,"Nevada County, California",06057,10
+215,"Orange County, California",06059,0
+216,"Placer County, California",06061,10
+217,"Plumas County, California",06063,10
+218,"Riverside County, California",06065,0
+219,"Sacramento County, California",06067,10
+220,"San Benito County, California",06069,10
+221,"San Bernardino County, California",06071,0
+222,"San Diego County, California",06073,0
+223,"San Francisco County, California",06075,10
+224,"San Joaquin County, California",06077,10
+225,"San Luis Obispo County, California",06079,0
+226,"San Mateo County, California",06081,10
+227,"Santa Barbara County, California",06083,0
+228,"Santa Clara County, California",06085,10
+229,"Santa Cruz County, California",06087,10
+230,"Shasta County, California",06089,10
+231,"Sierra County, California",06091,10
+232,"Siskiyou County, California",06093,10
+233,"Solano County, California",06095,10
+234,"Sonoma County, California",06097,10
+235,"Stanislaus County, California",06099,10
+236,"Sutter County, California",06101,10
+237,"Tehama County, California",06103,10
+238,"Trinity County, California",06105,10
+239,"Tulare County, California",06107,0
+240,"Tuolumne County, California",06109,10
+241,"Ventura County, California",06111,0
+242,"Yolo County, California",06113,10
+243,"Yuba County, California",06115,10
+244,"Adams County, Colorado",08001,28
+245,"Alamosa County, Colorado",08003,28
+246,"Arapahoe County, Colorado",08005,28
+247,"Archuleta County, Colorado",08007,0
+248,"Baca County, Colorado",08009,28
+249,"Bent County, Colorado",08011,28
+250,"Boulder County, Colorado",08013,28
+251,"Broomfield County, Colorado",08014,28
+252,"Chaffee County, Colorado",08015,28
+253,"Cheyenne County, Colorado",08017,28
+254,"Clear Creek County, Colorado",08019,28
+255,"Conejos County, Colorado",08021,28
+256,"Costilla County, Colorado",08023,28
+257,"Crowley County, Colorado",08025,28
+258,"Custer County, Colorado",08027,28
+259,"Delta County, Colorado",08029,28
+260,"Denver County, Colorado",08031,28
+261,"Dolores County, Colorado",08033,0
+262,"Douglas County, Colorado",08035,28
+263,"Eagle County, Colorado",08037,28
+264,"Elbert County, Colorado",08039,28
+265,"El Paso County, Colorado",08041,28
+266,"Fremont County, Colorado",08043,28
+267,"Garfield County, Colorado",08045,28
+268,"Gilpin County, Colorado",08047,28
+269,"Grand County, Colorado",08049,28
+270,"Gunnison County, Colorado",08051,28
+271,"Hinsdale County, Colorado",08053,28
+272,"Huerfano County, Colorado",08055,28
+273,"Jackson County, Colorado",08057,28
+274,"Jefferson County, Colorado",08059,28
+275,"Kiowa County, Colorado",08061,28
+276,"Kit Carson County, Colorado",08063,28
+277,"Lake County, Colorado",08065,28
+278,"La Plata County, Colorado",08067,0
+279,"Larimer County, Colorado",08069,28
+280,"Las Animas County, Colorado",08071,28
+281,"Lincoln County, Colorado",08073,28
+282,"Logan County, Colorado",08075,28
+283,"Mesa County, Colorado",08077,28
+284,"Mineral County, Colorado",08079,28
+285,"Moffat County, Colorado",08081,28
+286,"Montezuma County, Colorado",08083,0
+287,"Montrose County, Colorado",08085,28
+288,"Morgan County, Colorado",08087,28
+289,"Otero County, Colorado",08089,28
+290,"Ouray County, Colorado",08091,28
+291,"Park County, Colorado",08093,28
+292,"Phillips County, Colorado",08095,28
+293,"Pitkin County, Colorado",08097,28
+294,"Prowers County, Colorado",08099,28
+295,"Pueblo County, Colorado",08101,28
+296,"Rio Blanco County, Colorado",08103,28
+297,"Rio Grande County, Colorado",08105,28
+298,"Routt County, Colorado",08107,28
+299,"Saguache County, Colorado",08109,28
+300,"San Juan County, Colorado",08111,28
+301,"San Miguel County, Colorado",08113,28
+302,"Sedgwick County, Colorado",08115,28
+303,"Summit County, Colorado",08117,28
+304,"Teller County, Colorado",08119,28
+305,"Washington County, Colorado",08121,28
+306,"Weld County, Colorado",08123,28
+307,"Yuma County, Colorado",08125,28
+308,"Fairfield County, Connecticut",09001,12
+309,"Hartford County, Connecticut",09003,12
+310,"Litchfield County, Connecticut",09005,12
+311,"Middlesex County, Connecticut",09007,12
+312,"New Haven County, Connecticut",09009,12
+313,"New London County, Connecticut",09011,12
+314,"Tolland County, Connecticut",09013,12
+315,"Windham County, Connecticut",09015,12
+316,"Kent County, Delaware",10001,15
+317,"New Castle County, Delaware",10003,15
+318,"Sussex County, Delaware",10005,15
+319,"District of Columbia, District of Columbia",11001,17
+320,"Alachua County, Florida",12001,1
+321,"Baker County, Florida",12003,1
+322,"Bay County, Florida",12005,6
+323,"Bradford County, Florida",12007,1
+324,"Brevard County, Florida",12009,1
+325,"Broward County, Florida",12011,1
+326,"Calhoun County, Florida",12013,6
+327,"Charlotte County, Florida",12015,1
+328,"Citrus County, Florida",12017,1
+329,"Clay County, Florida",12019,1
+330,"Collier County, Florida",12021,1
+331,"Columbia County, Florida",12023,1
+332,"DeSoto County, Florida",12027,1
+333,"Dixie County, Florida",12029,1
+334,"Duval County, Florida",12031,1
+335,"Escambia County, Florida",12033,6
+336,"Flagler County, Florida",12035,1
+337,"Franklin County, Florida",12037,6
+338,"Gadsden County, Florida",12039,6
+339,"Gilchrist County, Florida",12041,1
+340,"Glades County, Florida",12043,1
+341,"Gulf County, Florida",12045,6
+342,"Hamilton County, Florida",12047,1
+343,"Hardee County, Florida",12049,1
+344,"Hendry County, Florida",12051,1
+345,"Hernando County, Florida",12053,1
+346,"Highlands County, Florida",12055,1
+347,"Hillsborough County, Florida",12057,1
+348,"Holmes County, Florida",12059,6
+349,"Indian River County, Florida",12061,1
+350,"Jackson County, Florida",12063,6
+351,"Jefferson County, Florida",12065,6
+352,"Lafayette County, Florida",12067,1
+353,"Lake County, Florida",12069,1
+354,"Lee County, Florida",12071,1
+355,"Leon County, Florida",12073,6
+356,"Levy County, Florida",12075,1
+357,"Liberty County, Florida",12077,6
+358,"Madison County, Florida",12079,1
+359,"Manatee County, Florida",12081,1
+360,"Marion County, Florida",12083,1
+361,"Martin County, Florida",12085,1
+362,"Miami-Dade County, Florida",12086,1
+363,"Monroe County, Florida",12087,1
+364,"Nassau County, Florida",12089,1
+365,"Okaloosa County, Florida",12091,6
+366,"Okeechobee County, Florida",12093,1
+367,"Orange County, Florida",12095,1
+368,"Osceola County, Florida",12097,1
+369,"Palm Beach County, Florida",12099,1
+370,"Pasco County, Florida",12101,1
+371,"Pinellas County, Florida",12103,1
+372,"Polk County, Florida",12105,1
+373,"Putnam County, Florida",12107,1
+374,"St. Johns County, Florida",12109,1
+375,"St. Lucie County, Florida",12111,1
+376,"Santa Rosa County, Florida",12113,6
+377,"Sarasota County, Florida",12115,1
+378,"Seminole County, Florida",12117,1
+379,"Sumter County, Florida",12119,1
+380,"Suwannee County, Florida",12121,1
+381,"Taylor County, Florida",12123,1
+382,"Union County, Florida",12125,1
+383,"Volusia County, Florida",12127,1
+384,"Wakulla County, Florida",12129,6
+385,"Walton County, Florida",12131,6
+386,"Washington County, Florida",12133,6
+387,"Appling County, Georgia",13001,2
+388,"Atkinson County, Georgia",13003,2
+389,"Bacon County, Georgia",13005,2
+390,"Baker County, Georgia",13007,2
+391,"Baldwin County, Georgia",13009,2
+392,"Banks County, Georgia",13011,2
+393,"Barrow County, Georgia",13013,2
+394,"Bartow County, Georgia",13015,2
+395,"Ben Hill County, Georgia",13017,2
+396,"Berrien County, Georgia",13019,2
+397,"Bibb County, Georgia",13021,2
+398,"Bleckley County, Georgia",13023,2
+399,"Brantley County, Georgia",13025,1
+400,"Brooks County, Georgia",13027,2
+401,"Bryan County, Georgia",13029,2
+402,"Bulloch County, Georgia",13031,2
+403,"Burke County, Georgia",13033,18
+404,"Butts County, Georgia",13035,2
+405,"Calhoun County, Georgia",13037,2
+406,"Camden County, Georgia",13039,1
+407,"Candler County, Georgia",13043,2
+408,"Carroll County, Georgia",13045,2
+409,"Catoosa County, Georgia",13047,2
+410,"Charlton County, Georgia",13049,1
+411,"Chatham County, Georgia",13051,2
+412,"Chattahoochee County, Georgia",13053,6
+413,"Chattooga County, Georgia",13055,2
+414,"Cherokee County, Georgia",13057,2
+415,"Clarke County, Georgia",13059,2
+416,"Clay County, Georgia",13061,6
+417,"Clayton County, Georgia",13063,2
+418,"Clinch County, Georgia",13065,2
+419,"Cobb County, Georgia",13067,2
+420,"Coffee County, Georgia",13069,2
+421,"Colquitt County, Georgia",13071,2
+422,"Columbia County, Georgia",13073,18
+423,"Cook County, Georgia",13075,2
+424,"Coweta County, Georgia",13077,2
+425,"Crawford County, Georgia",13079,2
+426,"Crisp County, Georgia",13081,2
+427,"Dade County, Georgia",13083,2
+428,"Dawson County, Georgia",13085,2
+429,"Decatur County, Georgia",13087,2
+430,"DeKalb County, Georgia",13089,2
+431,"Dodge County, Georgia",13091,2
+432,"Dooly County, Georgia",13093,2
+433,"Dougherty County, Georgia",13095,2
+434,"Douglas County, Georgia",13097,2
+435,"Early County, Georgia",13099,6
+436,"Echols County, Georgia",13101,2
+437,"Effingham County, Georgia",13103,2
+438,"Elbert County, Georgia",13105,2
+439,"Emanuel County, Georgia",13107,2
+440,"Evans County, Georgia",13109,2
+441,"Fannin County, Georgia",13111,2
+442,"Fayette County, Georgia",13113,2
+443,"Floyd County, Georgia",13115,2
+444,"Forsyth County, Georgia",13117,2
+445,"Franklin County, Georgia",13119,2
+446,"Fulton County, Georgia",13121,2
+447,"Gilmer County, Georgia",13123,2
+448,"Glascock County, Georgia",13125,18
+449,"Glynn County, Georgia",13127,1
+450,"Gordon County, Georgia",13129,2
+451,"Grady County, Georgia",13131,2
+452,"Greene County, Georgia",13133,2
+453,"Gwinnett County, Georgia",13135,2
+454,"Habersham County, Georgia",13137,2
+455,"Hall County, Georgia",13139,2
+456,"Hancock County, Georgia",13141,2
+457,"Haralson County, Georgia",13143,2
+458,"Harris County, Georgia",13145,6
+459,"Hart County, Georgia",13147,2
+460,"Heard County, Georgia",13149,2
+461,"Henry County, Georgia",13151,2
+462,"Houston County, Georgia",13153,2
+463,"Irwin County, Georgia",13155,2
+464,"Jackson County, Georgia",13157,2
+465,"Jasper County, Georgia",13159,2
+466,"Jeff Davis County, Georgia",13161,2
+467,"Jefferson County, Georgia",13163,18
+468,"Jenkins County, Georgia",13165,2
+469,"Johnson County, Georgia",13167,2
+470,"Jones County, Georgia",13169,2
+471,"Lamar County, Georgia",13171,2
+472,"Lanier County, Georgia",13173,2
+473,"Laurens County, Georgia",13175,2
+474,"Lee County, Georgia",13177,2
+475,"Liberty County, Georgia",13179,2
+476,"Lincoln County, Georgia",13181,18
+477,"Long County, Georgia",13183,2
+478,"Lowndes County, Georgia",13185,2
+479,"Lumpkin County, Georgia",13187,2
+480,"McDuffie County, Georgia",13189,18
+481,"McIntosh County, Georgia",13191,1
+482,"Macon County, Georgia",13193,2
+483,"Madison County, Georgia",13195,2
+484,"Marion County, Georgia",13197,6
+485,"Meriwether County, Georgia",13199,6
+486,"Miller County, Georgia",13201,2
+487,"Mitchell County, Georgia",13205,2
+488,"Monroe County, Georgia",13207,2
+489,"Montgomery County, Georgia",13209,2
+490,"Morgan County, Georgia",13211,2
+491,"Murray County, Georgia",13213,2
+492,"Muscogee County, Georgia",13215,6
+493,"Newton County, Georgia",13217,2
+494,"Oconee County, Georgia",13219,2
+495,"Oglethorpe County, Georgia",13221,2
+496,"Paulding County, Georgia",13223,2
+497,"Peach County, Georgia",13225,2
+498,"Pickens County, Georgia",13227,2
+499,"Pierce County, Georgia",13229,1
+500,"Pike County, Georgia",13231,2
+501,"Polk County, Georgia",13233,2
+502,"Pulaski County, Georgia",13235,2
+503,"Putnam County, Georgia",13237,2
+504,"Quitman County, Georgia",13239,6
+505,"Rabun County, Georgia",13241,2
+506,"Randolph County, Georgia",13243,6
+507,"Richmond County, Georgia",13245,18
+508,"Rockdale County, Georgia",13247,2
+509,"Schley County, Georgia",13249,2
+510,"Screven County, Georgia",13251,2
+511,"Seminole County, Georgia",13253,2
+512,"Spalding County, Georgia",13255,2
+513,"Stephens County, Georgia",13257,2
+514,"Stewart County, Georgia",13259,6
+515,"Sumter County, Georgia",13261,2
+516,"Talbot County, Georgia",13263,6
+517,"Taliaferro County, Georgia",13265,2
+518,"Tattnall County, Georgia",13267,2
+519,"Taylor County, Georgia",13269,2
+520,"Telfair County, Georgia",13271,2
+521,"Terrell County, Georgia",13273,2
+522,"Thomas County, Georgia",13275,2
+523,"Tift County, Georgia",13277,2
+524,"Toombs County, Georgia",13279,2
+525,"Towns County, Georgia",13281,2
+526,"Treutlen County, Georgia",13283,2
+527,"Troup County, Georgia",13285,6
+528,"Turner County, Georgia",13287,2
+529,"Twiggs County, Georgia",13289,2
+530,"Union County, Georgia",13291,2
+531,"Upson County, Georgia",13293,2
+532,"Walker County, Georgia",13295,2
+533,"Walton County, Georgia",13297,2
+534,"Ware County, Georgia",13299,1
+535,"Warren County, Georgia",13301,18
+536,"Washington County, Georgia",13303,2
+537,"Wayne County, Georgia",13305,2
+538,"Webster County, Georgia",13307,6
+539,"Wheeler County, Georgia",13309,2
+540,"White County, Georgia",13311,2
+541,"Whitfield County, Georgia",13313,2
+542,"Wilcox County, Georgia",13315,2
+543,"Wilkes County, Georgia",13317,2
+544,"Wilkinson County, Georgia",13319,2
+545,"Worth County, Georgia",13321,2
+546,"Hawaii County, Hawaii",15001,0
+547,"Honolulu County, Hawaii",15003,0
+548,"Kalawao County, Hawaii",15005,0
+549,"Kauai County, Hawaii",15007,0
+550,"Maui County, Hawaii",15009,0
+551,"Ada County, Idaho",16001,21
+552,"Adams County, Idaho",16003,21
+553,"Bannock County, Idaho",16005,21
+554,"Bear Lake County, Idaho",16007,21
+555,"Benewah County, Idaho",16009,24
+556,"Bingham County, Idaho",16011,21
+557,"Blaine County, Idaho",16013,21
+558,"Boise County, Idaho",16015,21
+559,"Bonner County, Idaho",16017,24
+560,"Bonneville County, Idaho",16019,21
+561,"Boundary County, Idaho",16021,24
+562,"Butte County, Idaho",16023,21
+563,"Camas County, Idaho",16025,21
+564,"Canyon County, Idaho",16027,21
+565,"Caribou County, Idaho",16029,21
+566,"Cassia County, Idaho",16031,21
+567,"Clark County, Idaho",16033,21
+568,"Clearwater County, Idaho",16035,24
+569,"Custer County, Idaho",16037,21
+570,"Elmore County, Idaho",16039,21
+571,"Franklin County, Idaho",16041,21
+572,"Fremont County, Idaho",16043,21
+573,"Gem County, Idaho",16045,21
+574,"Gooding County, Idaho",16047,21
+575,"Idaho County, Idaho",16049,24
+576,"Jefferson County, Idaho",16051,21
+577,"Jerome County, Idaho",16053,21
+578,"Kootenai County, Idaho",16055,24
+579,"Latah County, Idaho",16057,24
+580,"Lemhi County, Idaho",16059,21
+581,"Lewis County, Idaho",16061,24
+582,"Lincoln County, Idaho",16063,21
+583,"Madison County, Idaho",16065,21
+584,"Minidoka County, Idaho",16067,21
+585,"Nez Perce County, Idaho",16069,24
+586,"Oneida County, Idaho",16071,21
+587,"Owyhee County, Idaho",16073,21
+588,"Payette County, Idaho",16075,21
+589,"Power County, Idaho",16077,21
+590,"Shoshone County, Idaho",16079,24
+591,"Teton County, Idaho",16081,21
+592,"Twin Falls County, Idaho",16083,21
+593,"Valley County, Idaho",16085,21
+594,"Washington County, Idaho",16087,21
+595,"Adams County, Illinois",17001,7
+596,"Alexander County, Illinois",17003,7
+597,"Bond County, Illinois",17005,7
+598,"Boone County, Illinois",17007,27
+599,"Brown County, Illinois",17009,7
+600,"Bureau County, Illinois",17011,27
+601,"Calhoun County, Illinois",17013,7
+602,"Carroll County, Illinois",17015,27
+603,"Cass County, Illinois",17017,7
+604,"Champaign County, Illinois",17019,27
+605,"Christian County, Illinois",17021,7
+606,"Clark County, Illinois",17023,3
+607,"Clay County, Illinois",17025,7
+608,"Clinton County, Illinois",17027,7
+609,"Coles County, Illinois",17029,7
+610,"Cook County, Illinois",17031,27
+611,"Crawford County, Illinois",17033,3
+612,"Cumberland County, Illinois",17035,7
+613,"DeKalb County, Illinois",17037,27
+614,"De Witt County, Illinois",17039,27
+615,"Douglas County, Illinois",17041,7
+616,"DuPage County, Illinois",17043,27
+617,"Edgar County, Illinois",17045,3
+618,"Edwards County, Illinois",17047,3
+619,"Effingham County, Illinois",17049,7
+620,"Fayette County, Illinois",17051,7
+621,"Ford County, Illinois",17053,27
+622,"Franklin County, Illinois",17055,7
+623,"Fulton County, Illinois",17057,27
+624,"Gallatin County, Illinois",17059,3
+625,"Greene County, Illinois",17061,7
+626,"Grundy County, Illinois",17063,27
+627,"Hamilton County, Illinois",17065,7
+628,"Hancock County, Illinois",17067,27
+629,"Hardin County, Illinois",17069,7
+630,"Henderson County, Illinois",17071,27
+631,"Henry County, Illinois",17073,27
+632,"Iroquois County, Illinois",17075,27
+633,"Jackson County, Illinois",17077,7
+634,"Jasper County, Illinois",17079,3
+635,"Jefferson County, Illinois",17081,7
+636,"Jersey County, Illinois",17083,7
+637,"Jo Daviess County, Illinois",17085,27
+638,"Johnson County, Illinois",17087,7
+639,"Kane County, Illinois",17089,27
+640,"Kankakee County, Illinois",17091,27
+641,"Kendall County, Illinois",17093,27
+642,"Knox County, Illinois",17095,27
+643,"Lake County, Illinois",17097,27
+644,"LaSalle County, Illinois",17099,27
+645,"Lawrence County, Illinois",17101,3
+646,"Lee County, Illinois",17103,27
+647,"Livingston County, Illinois",17105,27
+648,"Logan County, Illinois",17107,7
+649,"McDonough County, Illinois",17109,27
+650,"McHenry County, Illinois",17111,27
+651,"McLean County, Illinois",17113,27
+652,"Macon County, Illinois",17115,7
+653,"Macoupin County, Illinois",17117,7
+654,"Madison County, Illinois",17119,7
+655,"Marion County, Illinois",17121,7
+656,"Marshall County, Illinois",17123,27
+657,"Mason County, Illinois",17125,27
+658,"Massac County, Illinois",17127,19
+659,"Menard County, Illinois",17129,7
+660,"Mercer County, Illinois",17131,27
+661,"Monroe County, Illinois",17133,7
+662,"Montgomery County, Illinois",17135,7
+663,"Morgan County, Illinois",17137,7
+664,"Moultrie County, Illinois",17139,7
+665,"Ogle County, Illinois",17141,27
+666,"Peoria County, Illinois",17143,27
+667,"Perry County, Illinois",17145,7
+668,"Piatt County, Illinois",17147,27
+669,"Pike County, Illinois",17149,7
+670,"Pope County, Illinois",17151,7
+671,"Pulaski County, Illinois",17153,7
+672,"Putnam County, Illinois",17155,27
+673,"Randolph County, Illinois",17157,7
+674,"Richland County, Illinois",17159,3
+675,"Rock Island County, Illinois",17161,27
+676,"St. Clair County, Illinois",17163,7
+677,"Saline County, Illinois",17165,7
+678,"Sangamon County, Illinois",17167,7
+679,"Schuyler County, Illinois",17169,27
+680,"Scott County, Illinois",17171,7
+681,"Shelby County, Illinois",17173,7
+682,"Stark County, Illinois",17175,27
+683,"Stephenson County, Illinois",17177,27
+684,"Tazewell County, Illinois",17179,27
+685,"Union County, Illinois",17181,7
+686,"Vermilion County, Illinois",17183,27
+687,"Wabash County, Illinois",17185,3
+688,"Warren County, Illinois",17187,27
+689,"Washington County, Illinois",17189,7
+690,"Wayne County, Illinois",17191,3
+691,"White County, Illinois",17193,3
+692,"Whiteside County, Illinois",17195,27
+693,"Will County, Illinois",17197,27
+694,"Williamson County, Illinois",17199,7
+695,"Winnebago County, Illinois",17201,27
+696,"Woodford County, Illinois",17203,27
+697,"Adams County, Indiana",18001,3
+698,"Allen County, Indiana",18003,3
+699,"Bartholomew County, Indiana",18005,3
+700,"Benton County, Indiana",18007,3
+701,"Blackford County, Indiana",18009,3
+702,"Boone County, Indiana",18011,3
+703,"Brown County, Indiana",18013,3
+704,"Carroll County, Indiana",18015,3
+705,"Cass County, Indiana",18017,3
+706,"Clark County, Indiana",18019,25
+707,"Clay County, Indiana",18021,3
+708,"Clinton County, Indiana",18023,3
+709,"Crawford County, Indiana",18025,25
+710,"Daviess County, Indiana",18027,3
+711,"Dearborn County, Indiana",18029,14
+712,"Decatur County, Indiana",18031,3
+713,"DeKalb County, Indiana",18033,3
+714,"Delaware County, Indiana",18035,3
+715,"Dubois County, Indiana",18037,3
+716,"Elkhart County, Indiana",18039,3
+717,"Fayette County, Indiana",18041,3
+718,"Floyd County, Indiana",18043,25
+719,"Fountain County, Indiana",18045,3
+720,"Franklin County, Indiana",18047,14
+721,"Fulton County, Indiana",18049,3
+722,"Gibson County, Indiana",18051,3
+723,"Grant County, Indiana",18053,3
+724,"Greene County, Indiana",18055,3
+725,"Hamilton County, Indiana",18057,3
+726,"Hancock County, Indiana",18059,3
+727,"Harrison County, Indiana",18061,25
+728,"Hendricks County, Indiana",18063,3
+729,"Henry County, Indiana",18065,3
+730,"Howard County, Indiana",18067,3
+731,"Huntington County, Indiana",18069,3
+732,"Jackson County, Indiana",18071,3
+733,"Jasper County, Indiana",18073,27
+734,"Jay County, Indiana",18075,3
+735,"Jefferson County, Indiana",18077,25
+736,"Jennings County, Indiana",18079,3
+737,"Johnson County, Indiana",18081,3
+738,"Knox County, Indiana",18083,3
+739,"Kosciusko County, Indiana",18085,3
+740,"LaGrange County, Indiana",18087,3
+741,"Lake County, Indiana",18089,27
+742,"LaPorte County, Indiana",18091,27
+743,"Lawrence County, Indiana",18093,3
+744,"Madison County, Indiana",18095,3
+745,"Marion County, Indiana",18097,3
+746,"Marshall County, Indiana",18099,3
+747,"Martin County, Indiana",18101,3
+748,"Miami County, Indiana",18103,3
+749,"Monroe County, Indiana",18105,3
+750,"Montgomery County, Indiana",18107,3
+751,"Morgan County, Indiana",18109,3
+752,"Newton County, Indiana",18111,27
+753,"Noble County, Indiana",18113,3
+754,"Ohio County, Indiana",18115,14
+755,"Orange County, Indiana",18117,3
+756,"Owen County, Indiana",18119,3
+757,"Parke County, Indiana",18121,3
+758,"Perry County, Indiana",18123,3
+759,"Pike County, Indiana",18125,3
+760,"Porter County, Indiana",18127,27
+761,"Posey County, Indiana",18129,3
+762,"Pulaski County, Indiana",18131,3
+763,"Putnam County, Indiana",18133,3
+764,"Randolph County, Indiana",18135,3
+765,"Ripley County, Indiana",18137,14
+766,"Rush County, Indiana",18139,3
+767,"St. Joseph County, Indiana",18141,3
+768,"Scott County, Indiana",18143,25
+769,"Shelby County, Indiana",18145,3
+770,"Spencer County, Indiana",18147,3
+771,"Starke County, Indiana",18149,3
+772,"Steuben County, Indiana",18151,3
+773,"Sullivan County, Indiana",18153,3
+774,"Switzerland County, Indiana",18155,14
+775,"Tippecanoe County, Indiana",18157,3
+776,"Tipton County, Indiana",18159,3
+777,"Union County, Indiana",18161,14
+778,"Vanderburgh County, Indiana",18163,3
+779,"Vermillion County, Indiana",18165,3
+780,"Vigo County, Indiana",18167,3
+781,"Wabash County, Indiana",18169,3
+782,"Warren County, Indiana",18171,3
+783,"Warrick County, Indiana",18173,3
+784,"Washington County, Indiana",18175,25
+785,"Wayne County, Indiana",18177,3
+786,"Wells County, Indiana",18179,3
+787,"White County, Indiana",18181,3
+788,"Whitley County, Indiana",18183,3
+789,"Adair County, Iowa",19001,9
+790,"Adams County, Iowa",19003,9
+791,"Allamakee County, Iowa",19005,27
+792,"Appanoose County, Iowa",19007,9
+793,"Audubon County, Iowa",19009,9
+794,"Benton County, Iowa",19011,27
+795,"Black Hawk County, Iowa",19013,27
+796,"Boone County, Iowa",19015,9
+797,"Bremer County, Iowa",19017,27
+798,"Buchanan County, Iowa",19019,27
+799,"Buena Vista County, Iowa",19021,9
+800,"Butler County, Iowa",19023,9
+801,"Calhoun County, Iowa",19025,9
+802,"Carroll County, Iowa",19027,9
+803,"Cass County, Iowa",19029,9
+804,"Cedar County, Iowa",19031,27
+805,"Cerro Gordo County, Iowa",19033,9
+806,"Cherokee County, Iowa",19035,9
+807,"Chickasaw County, Iowa",19037,27
+808,"Clarke County, Iowa",19039,9
+809,"Clay County, Iowa",19041,9
+810,"Clayton County, Iowa",19043,27
+811,"Clinton County, Iowa",19045,27
+812,"Crawford County, Iowa",19047,9
+813,"Dallas County, Iowa",19049,9
+814,"Davis County, Iowa",19051,9
+815,"Decatur County, Iowa",19053,9
+816,"Delaware County, Iowa",19055,27
+817,"Des Moines County, Iowa",19057,27
+818,"Dickinson County, Iowa",19059,9
+819,"Dubuque County, Iowa",19061,27
+820,"Emmet County, Iowa",19063,9
+821,"Fayette County, Iowa",19065,27
+822,"Floyd County, Iowa",19067,27
+823,"Franklin County, Iowa",19069,9
+824,"Fremont County, Iowa",19071,9
+825,"Greene County, Iowa",19073,9
+826,"Grundy County, Iowa",19075,9
+827,"Guthrie County, Iowa",19077,9
+828,"Hamilton County, Iowa",19079,9
+829,"Hancock County, Iowa",19081,9
+830,"Hardin County, Iowa",19083,9
+831,"Harrison County, Iowa",19085,9
+832,"Henry County, Iowa",19087,27
+833,"Howard County, Iowa",19089,26
+834,"Humboldt County, Iowa",19091,9
+835,"Ida County, Iowa",19093,9
+836,"Iowa County, Iowa",19095,27
+837,"Jackson County, Iowa",19097,27
+838,"Jasper County, Iowa",19099,9
+839,"Jefferson County, Iowa",19101,9
+840,"Johnson County, Iowa",19103,27
+841,"Jones County, Iowa",19105,27
+842,"Keokuk County, Iowa",19107,27
+843,"Kossuth County, Iowa",19109,9
+844,"Lee County, Iowa",19111,27
+845,"Linn County, Iowa",19113,27
+846,"Louisa County, Iowa",19115,27
+847,"Lucas County, Iowa",19117,9
+848,"Lyon County, Iowa",19119,9
+849,"Madison County, Iowa",19121,9
+850,"Mahaska County, Iowa",19123,9
+851,"Marion County, Iowa",19125,9
+852,"Marshall County, Iowa",19127,9
+853,"Mills County, Iowa",19129,9
+854,"Mitchell County, Iowa",19131,26
+855,"Monona County, Iowa",19133,9
+856,"Monroe County, Iowa",19135,9
+857,"Montgomery County, Iowa",19137,9
+858,"Muscatine County, Iowa",19139,27
+859,"O'Brien County, Iowa",19141,9
+860,"Osceola County, Iowa",19143,9
+861,"Page County, Iowa",19145,9
+862,"Palo Alto County, Iowa",19147,9
+863,"Plymouth County, Iowa",19149,9
+864,"Pocahontas County, Iowa",19151,9
+865,"Polk County, Iowa",19153,9
+866,"Pottawattamie County, Iowa",19155,9
+867,"Poweshiek County, Iowa",19157,9
+868,"Ringgold County, Iowa",19159,9
+869,"Sac County, Iowa",19161,9
+870,"Scott County, Iowa",19163,27
+871,"Shelby County, Iowa",19165,9
+872,"Sioux County, Iowa",19167,9
+873,"Story County, Iowa",19169,9
+874,"Tama County, Iowa",19171,9
+875,"Taylor County, Iowa",19173,9
+876,"Union County, Iowa",19175,9
+877,"Van Buren County, Iowa",19177,9
+878,"Wapello County, Iowa",19179,9
+879,"Warren County, Iowa",19181,9
+880,"Washington County, Iowa",19183,27
+881,"Wayne County, Iowa",19185,9
+882,"Webster County, Iowa",19187,9
+883,"Winnebago County, Iowa",19189,9
+884,"Winneshiek County, Iowa",19191,27
+885,"Woodbury County, Iowa",19193,9
+886,"Worth County, Iowa",19195,9
+887,"Wright County, Iowa",19197,9
+888,"Allen County, Kansas",20001,8
+889,"Anderson County, Kansas",20003,4
+890,"Atchison County, Kansas",20005,4
+891,"Barber County, Kansas",20007,4
+892,"Barton County, Kansas",20009,4
+893,"Bourbon County, Kansas",20011,4
+894,"Brown County, Kansas",20013,4
+895,"Butler County, Kansas",20015,4
+896,"Chase County, Kansas",20017,4
+897,"Chautauqua County, Kansas",20019,8
+898,"Cherokee County, Kansas",20021,8
+899,"Cheyenne County, Kansas",20023,28
+900,"Clark County, Kansas",20025,4
+901,"Clay County, Kansas",20027,4
+902,"Cloud County, Kansas",20029,4
+903,"Coffey County, Kansas",20031,4
+904,"Comanche County, Kansas",20033,4
+905,"Cowley County, Kansas",20035,4
+906,"Crawford County, Kansas",20037,8
+907,"Decatur County, Kansas",20039,28
+908,"Dickinson County, Kansas",20041,4
+909,"Doniphan County, Kansas",20043,4
+910,"Douglas County, Kansas",20045,4
+911,"Edwards County, Kansas",20047,4
+912,"Elk County, Kansas",20049,8
+913,"Ellis County, Kansas",20051,4
+914,"Ellsworth County, Kansas",20053,4
+915,"Finney County, Kansas",20055,4
+916,"Ford County, Kansas",20057,4
+917,"Franklin County, Kansas",20059,4
+918,"Geary County, Kansas",20061,4
+919,"Gove County, Kansas",20063,28
+920,"Graham County, Kansas",20065,4
+921,"Grant County, Kansas",20067,4
+922,"Gray County, Kansas",20069,4
+923,"Greeley County, Kansas",20071,4
+924,"Greenwood County, Kansas",20073,4
+925,"Hamilton County, Kansas",20075,4
+926,"Harper County, Kansas",20077,4
+927,"Harvey County, Kansas",20079,4
+928,"Haskell County, Kansas",20081,4
+929,"Hodgeman County, Kansas",20083,4
+930,"Jackson County, Kansas",20085,4
+931,"Jefferson County, Kansas",20087,4
+932,"Jewell County, Kansas",20089,4
+933,"Johnson County, Kansas",20091,4
+934,"Kearny County, Kansas",20093,4
+935,"Kingman County, Kansas",20095,4
+936,"Kiowa County, Kansas",20097,4
+937,"Labette County, Kansas",20099,8
+938,"Lane County, Kansas",20101,4
+939,"Leavenworth County, Kansas",20103,4
+940,"Lincoln County, Kansas",20105,4
+941,"Linn County, Kansas",20107,4
+942,"Logan County, Kansas",20109,28
+943,"Lyon County, Kansas",20111,4
+944,"McPherson County, Kansas",20113,4
+945,"Marion County, Kansas",20115,4
+946,"Marshall County, Kansas",20117,4
+947,"Meade County, Kansas",20119,4
+948,"Miami County, Kansas",20121,4
+949,"Mitchell County, Kansas",20123,4
+950,"Montgomery County, Kansas",20125,8
+951,"Morris County, Kansas",20127,4
+952,"Morton County, Kansas",20129,4
+953,"Nemaha County, Kansas",20131,4
+954,"Neosho County, Kansas",20133,8
+955,"Ness County, Kansas",20135,4
+956,"Norton County, Kansas",20137,4
+957,"Osage County, Kansas",20139,4
+958,"Osborne County, Kansas",20141,4
+959,"Ottawa County, Kansas",20143,4
+960,"Pawnee County, Kansas",20145,4
+961,"Phillips County, Kansas",20147,4
+962,"Pottawatomie County, Kansas",20149,4
+963,"Pratt County, Kansas",20151,4
+964,"Rawlins County, Kansas",20153,28
+965,"Reno County, Kansas",20155,4
+966,"Republic County, Kansas",20157,4
+967,"Rice County, Kansas",20159,4
+968,"Riley County, Kansas",20161,4
+969,"Rooks County, Kansas",20163,4
+970,"Rush County, Kansas",20165,4
+971,"Russell County, Kansas",20167,4
+972,"Saline County, Kansas",20169,4
+973,"Scott County, Kansas",20171,4
+974,"Sedgwick County, Kansas",20173,4
+975,"Seward County, Kansas",20175,4
+976,"Shawnee County, Kansas",20177,4
+977,"Sheridan County, Kansas",20179,28
+978,"Sherman County, Kansas",20181,28
+979,"Smith County, Kansas",20183,4
+980,"Stafford County, Kansas",20185,4
+981,"Stanton County, Kansas",20187,4
+982,"Stevens County, Kansas",20189,4
+983,"Sumner County, Kansas",20191,4
+984,"Thomas County, Kansas",20193,28
+985,"Trego County, Kansas",20195,4
+986,"Wabaunsee County, Kansas",20197,4
+987,"Wallace County, Kansas",20199,28
+988,"Washington County, Kansas",20201,4
+989,"Wichita County, Kansas",20203,4
+990,"Wilson County, Kansas",20205,8
+991,"Woodson County, Kansas",20207,4
+992,"Wyandotte County, Kansas",20209,4
+993,"Adair County, Kentucky",21001,25
+994,"Allen County, Kentucky",21003,19
+995,"Anderson County, Kentucky",21005,25
+996,"Ballard County, Kentucky",21007,19
+997,"Barren County, Kentucky",21009,19
+998,"Bath County, Kentucky",21011,25
+999,"Bell County, Kentucky",21013,25
+1000,"Boone County, Kentucky",21015,14
+1001,"Bourbon County, Kentucky",21017,25
+1002,"Boyd County, Kentucky",21019,25
+1003,"Boyle County, Kentucky",21021,25
+1004,"Bracken County, Kentucky",21023,14
+1005,"Breathitt County, Kentucky",21025,25
+1006,"Breckinridge County, Kentucky",21027,25
+1007,"Bullitt County, Kentucky",21029,25
+1008,"Butler County, Kentucky",21031,19
+1009,"Caldwell County, Kentucky",21033,19
+1010,"Calloway County, Kentucky",21035,19
+1011,"Campbell County, Kentucky",21037,14
+1012,"Carlisle County, Kentucky",21039,19
+1013,"Carroll County, Kentucky",21041,25
+1014,"Carter County, Kentucky",21043,25
+1015,"Casey County, Kentucky",21045,25
+1016,"Christian County, Kentucky",21047,19
+1017,"Clark County, Kentucky",21049,25
+1018,"Clay County, Kentucky",21051,25
+1019,"Clinton County, Kentucky",21053,25
+1020,"Crittenden County, Kentucky",21055,19
+1021,"Cumberland County, Kentucky",21057,19
+1022,"Daviess County, Kentucky",21059,3
+1023,"Edmonson County, Kentucky",21061,19
+1024,"Elliott County, Kentucky",21063,25
+1025,"Estill County, Kentucky",21065,25
+1026,"Fayette County, Kentucky",21067,25
+1027,"Fleming County, Kentucky",21069,14
+1028,"Floyd County, Kentucky",21071,25
+1029,"Franklin County, Kentucky",21073,25
+1030,"Fulton County, Kentucky",21075,19
+1031,"Gallatin County, Kentucky",21077,14
+1032,"Garrard County, Kentucky",21079,25
+1033,"Grant County, Kentucky",21081,14
+1034,"Graves County, Kentucky",21083,19
+1035,"Grayson County, Kentucky",21085,25
+1036,"Green County, Kentucky",21087,25
+1037,"Greenup County, Kentucky",21089,25
+1038,"Hancock County, Kentucky",21091,3
+1039,"Hardin County, Kentucky",21093,25
+1040,"Harlan County, Kentucky",21095,25
+1041,"Harrison County, Kentucky",21097,25
+1042,"Hart County, Kentucky",21099,19
+1043,"Henderson County, Kentucky",21101,3
+1044,"Henry County, Kentucky",21103,25
+1045,"Hickman County, Kentucky",21105,19
+1046,"Hopkins County, Kentucky",21107,3
+1047,"Jackson County, Kentucky",21109,25
+1048,"Jefferson County, Kentucky",21111,25
+1049,"Jessamine County, Kentucky",21113,25
+1050,"Johnson County, Kentucky",21115,25
+1051,"Kenton County, Kentucky",21117,14
+1052,"Knott County, Kentucky",21119,25
+1053,"Knox County, Kentucky",21121,25
+1054,"Larue County, Kentucky",21123,25
+1055,"Laurel County, Kentucky",21125,25
+1056,"Lawrence County, Kentucky",21127,25
+1057,"Lee County, Kentucky",21129,25
+1058,"Leslie County, Kentucky",21131,25
+1059,"Letcher County, Kentucky",21133,25
+1060,"Lewis County, Kentucky",21135,14
+1061,"Lincoln County, Kentucky",21137,25
+1062,"Livingston County, Kentucky",21139,19
+1063,"Logan County, Kentucky",21141,19
+1064,"Lyon County, Kentucky",21143,19
+1065,"McCracken County, Kentucky",21145,19
+1066,"McCreary County, Kentucky",21147,25
+1067,"McLean County, Kentucky",21149,3
+1068,"Madison County, Kentucky",21151,25
+1069,"Magoffin County, Kentucky",21153,25
+1070,"Marion County, Kentucky",21155,25
+1071,"Marshall County, Kentucky",21157,19
+1072,"Martin County, Kentucky",21159,25
+1073,"Mason County, Kentucky",21161,14
+1074,"Meade County, Kentucky",21163,25
+1075,"Menifee County, Kentucky",21165,25
+1076,"Mercer County, Kentucky",21167,25
+1077,"Metcalfe County, Kentucky",21169,19
+1078,"Monroe County, Kentucky",21171,19
+1079,"Montgomery County, Kentucky",21173,25
+1080,"Morgan County, Kentucky",21175,25
+1081,"Muhlenberg County, Kentucky",21177,3
+1082,"Nelson County, Kentucky",21179,25
+1083,"Nicholas County, Kentucky",21181,25
+1084,"Ohio County, Kentucky",21183,3
+1085,"Oldham County, Kentucky",21185,25
+1086,"Owen County, Kentucky",21187,25
+1087,"Owsley County, Kentucky",21189,25
+1088,"Pendleton County, Kentucky",21191,14
+1089,"Perry County, Kentucky",21193,25
+1090,"Pike County, Kentucky",21195,25
+1091,"Powell County, Kentucky",21197,25
+1092,"Pulaski County, Kentucky",21199,25
+1093,"Robertson County, Kentucky",21201,25
+1094,"Rockcastle County, Kentucky",21203,25
+1095,"Rowan County, Kentucky",21205,25
+1096,"Russell County, Kentucky",21207,25
+1097,"Scott County, Kentucky",21209,25
+1098,"Shelby County, Kentucky",21211,25
+1099,"Simpson County, Kentucky",21213,19
+1100,"Spencer County, Kentucky",21215,25
+1101,"Taylor County, Kentucky",21217,25
+1102,"Todd County, Kentucky",21219,19
+1103,"Trigg County, Kentucky",21221,19
+1104,"Trimble County, Kentucky",21223,25
+1105,"Union County, Kentucky",21225,3
+1106,"Warren County, Kentucky",21227,19
+1107,"Washington County, Kentucky",21229,25
+1108,"Wayne County, Kentucky",21231,25
+1109,"Webster County, Kentucky",21233,3
+1110,"Whitley County, Kentucky",21235,25
+1111,"Wolfe County, Kentucky",21237,25
+1112,"Woodford County, Kentucky",21239,25
+1113,"Acadia Parish, Louisiana",22001,6
+1114,"Allen Parish, Louisiana",22003,6
+1115,"Ascension Parish, Louisiana",22005,6
+1116,"Assumption Parish, Louisiana",22007,6
+1117,"Avoyelles Parish, Louisiana",22009,6
+1118,"Beauregard Parish, Louisiana",22011,6
+1119,"Bienville Parish, Louisiana",22013,6
+1120,"Bossier Parish, Louisiana",22015,6
+1121,"Caddo Parish, Louisiana",22017,6
+1122,"Calcasieu Parish, Louisiana",22019,6
+1123,"Caldwell Parish, Louisiana",22021,6
+1124,"Cameron Parish, Louisiana",22023,6
+1125,"Catahoula Parish, Louisiana",22025,6
+1126,"Claiborne Parish, Louisiana",22027,6
+1127,"Concordia Parish, Louisiana",22029,6
+1128,"De Soto Parish, Louisiana",22031,6
+1129,"East Baton Rouge Parish, Louisiana",22033,6
+1130,"East Carroll Parish, Louisiana",22035,6
+1131,"East Feliciana Parish, Louisiana",22037,6
+1132,"Evangeline Parish, Louisiana",22039,6
+1133,"Franklin Parish, Louisiana",22041,6
+1134,"Grant Parish, Louisiana",22043,6
+1135,"Iberia Parish, Louisiana",22045,6
+1136,"Iberville Parish, Louisiana",22047,6
+1137,"Jackson Parish, Louisiana",22049,6
+1138,"Jefferson Parish, Louisiana",22051,6
+1139,"Jefferson Davis Parish, Louisiana",22053,6
+1140,"Lafayette Parish, Louisiana",22055,6
+1141,"Lafourche Parish, Louisiana",22057,6
+1142,"La Salle Parish, Louisiana",22059,6
+1143,"Lincoln Parish, Louisiana",22061,6
+1144,"Livingston Parish, Louisiana",22063,6
+1145,"Madison Parish, Louisiana",22065,6
+1146,"Morehouse Parish, Louisiana",22067,6
+1147,"Natchitoches Parish, Louisiana",22069,6
+1148,"Orleans Parish, Louisiana",22071,6
+1149,"Ouachita Parish, Louisiana",22073,6
+1150,"Plaquemines Parish, Louisiana",22075,6
+1151,"Pointe Coupee Parish, Louisiana",22077,6
+1152,"Rapides Parish, Louisiana",22079,6
+1153,"Red River Parish, Louisiana",22081,6
+1154,"Richland Parish, Louisiana",22083,6
+1155,"Sabine Parish, Louisiana",22085,6
+1156,"St. Bernard Parish, Louisiana",22087,6
+1157,"St. Charles Parish, Louisiana",22089,6
+1158,"St. Helena Parish, Louisiana",22091,6
+1159,"St. James Parish, Louisiana",22093,6
+1160,"St. John the Baptist Parish, Louisiana",22095,6
+1161,"St. Landry Parish, Louisiana",22097,6
+1162,"St. Martin Parish, Louisiana",22099,6
+1163,"St. Mary Parish, Louisiana",22101,6
+1164,"St. Tammany Parish, Louisiana",22103,6
+1165,"Tangipahoa Parish, Louisiana",22105,6
+1166,"Tensas Parish, Louisiana",22107,6
+1167,"Terrebonne Parish, Louisiana",22109,6
+1168,"Union Parish, Louisiana",22111,6
+1169,"Vermilion Parish, Louisiana",22113,6
+1170,"Vernon Parish, Louisiana",22115,6
+1171,"Washington Parish, Louisiana",22117,6
+1172,"Webster Parish, Louisiana",22119,6
+1173,"West Baton Rouge Parish, Louisiana",22121,6
+1174,"West Carroll Parish, Louisiana",22123,6
+1175,"West Feliciana Parish, Louisiana",22125,6
+1176,"Winn Parish, Louisiana",22127,6
+1177,"Androscoggin County, Maine",23001,11
+1178,"Aroostook County, Maine",23003,11
+1179,"Cumberland County, Maine",23005,11
+1180,"Franklin County, Maine",23007,11
+1181,"Hancock County, Maine",23009,11
+1182,"Kennebec County, Maine",23011,11
+1183,"Knox County, Maine",23013,11
+1184,"Lincoln County, Maine",23015,11
+1185,"Oxford County, Maine",23017,11
+1186,"Penobscot County, Maine",23019,11
+1187,"Piscataquis County, Maine",23021,11
+1188,"Sagadahoc County, Maine",23023,11
+1189,"Somerset County, Maine",23025,11
+1190,"Waldo County, Maine",23027,11
+1191,"Washington County, Maine",23029,11
+1192,"York County, Maine",23031,11
+1193,"Allegany County, Maryland",24001,17
+1194,"Anne Arundel County, Maryland",24003,17
+1195,"Baltimore County, Maryland",24005,17
+1196,"Calvert County, Maryland",24009,17
+1197,"Caroline County, Maryland",24011,17
+1198,"Carroll County, Maryland",24013,17
+1199,"Cecil County, Maryland",24015,17
+1200,"Charles County, Maryland",24017,17
+1201,"Dorchester County, Maryland",24019,17
+1202,"Frederick County, Maryland",24021,17
+1203,"Garrett County, Maryland",24023,17
+1204,"Harford County, Maryland",24025,17
+1205,"Howard County, Maryland",24027,17
+1206,"Kent County, Maryland",24029,17
+1207,"Montgomery County, Maryland",24031,17
+1208,"Prince George's County, Maryland",24033,17
+1209,"Queen Anne's County, Maryland",24035,17
+1210,"St. Mary's County, Maryland",24037,17
+1211,"Somerset County, Maryland",24039,15
+1212,"Talbot County, Maryland",24041,17
+1213,"Washington County, Maryland",24043,17
+1214,"Wicomico County, Maryland",24045,15
+1215,"Worcester County, Maryland",24047,15
+1216,"Baltimore city, Maryland",24510,17
+1217,"Barnstable County, Massachusetts",25001,11
+1218,"Berkshire County, Massachusetts",25003,11
+1219,"Bristol County, Massachusetts",25005,11
+1220,"Dukes County, Massachusetts",25007,11
+1221,"Essex County, Massachusetts",25009,11
+1222,"Franklin County, Massachusetts",25011,11
+1223,"Hampden County, Massachusetts",25013,11
+1224,"Hampshire County, Massachusetts",25015,11
+1225,"Middlesex County, Massachusetts",25017,11
+1226,"Nantucket County, Massachusetts",25019,11
+1227,"Norfolk County, Massachusetts",25021,11
+1228,"Plymouth County, Massachusetts",25023,11
+1229,"Suffolk County, Massachusetts",25025,11
+1230,"Worcester County, Massachusetts",25027,11
+1231,"Alcona County, Michigan",26001,5
+1232,"Alger County, Michigan",26003,27
+1233,"Allegan County, Michigan",26005,5
+1234,"Alpena County, Michigan",26007,5
+1235,"Antrim County, Michigan",26009,5
+1236,"Arenac County, Michigan",26011,5
+1237,"Baraga County, Michigan",26013,27
+1238,"Barry County, Michigan",26015,5
+1239,"Bay County, Michigan",26017,5
+1240,"Benzie County, Michigan",26019,5
+1241,"Berrien County, Michigan",26021,3
+1242,"Branch County, Michigan",26023,5
+1243,"Calhoun County, Michigan",26025,5
+1244,"Cass County, Michigan",26027,3
+1245,"Charlevoix County, Michigan",26029,5
+1246,"Cheboygan County, Michigan",26031,5
+1247,"Chippewa County, Michigan",26033,5
+1248,"Clare County, Michigan",26035,5
+1249,"Clinton County, Michigan",26037,5
+1250,"Crawford County, Michigan",26039,5
+1251,"Delta County, Michigan",26041,27
+1252,"Dickinson County, Michigan",26043,27
+1253,"Eaton County, Michigan",26045,5
+1254,"Emmet County, Michigan",26047,5
+1255,"Genesee County, Michigan",26049,5
+1256,"Gladwin County, Michigan",26051,5
+1257,"Gogebic County, Michigan",26053,27
+1258,"Grand Traverse County, Michigan",26055,5
+1259,"Gratiot County, Michigan",26057,5
+1260,"Hillsdale County, Michigan",26059,5
+1261,"Houghton County, Michigan",26061,27
+1262,"Huron County, Michigan",26063,5
+1263,"Ingham County, Michigan",26065,5
+1264,"Ionia County, Michigan",26067,5
+1265,"Iosco County, Michigan",26069,5
+1266,"Iron County, Michigan",26071,27
+1267,"Isabella County, Michigan",26073,5
+1268,"Jackson County, Michigan",26075,5
+1269,"Kalamazoo County, Michigan",26077,5
+1270,"Kalkaska County, Michigan",26079,5
+1271,"Kent County, Michigan",26081,5
+1272,"Keweenaw County, Michigan",26083,27
+1273,"Lake County, Michigan",26085,5
+1274,"Lapeer County, Michigan",26087,5
+1275,"Leelanau County, Michigan",26089,5
+1276,"Lenawee County, Michigan",26091,5
+1277,"Livingston County, Michigan",26093,5
+1278,"Luce County, Michigan",26095,5
+1279,"Mackinac County, Michigan",26097,5
+1280,"Macomb County, Michigan",26099,5
+1281,"Manistee County, Michigan",26101,5
+1282,"Marquette County, Michigan",26103,27
+1283,"Mason County, Michigan",26105,5
+1284,"Mecosta County, Michigan",26107,5
+1285,"Menominee County, Michigan",26109,27
+1286,"Midland County, Michigan",26111,5
+1287,"Missaukee County, Michigan",26113,5
+1288,"Monroe County, Michigan",26115,5
+1289,"Montcalm County, Michigan",26117,5
+1290,"Montmorency County, Michigan",26119,5
+1291,"Muskegon County, Michigan",26121,5
+1292,"Newaygo County, Michigan",26123,5
+1293,"Oakland County, Michigan",26125,5
+1294,"Oceana County, Michigan",26127,5
+1295,"Ogemaw County, Michigan",26129,5
+1296,"Ontonagon County, Michigan",26131,27
+1297,"Osceola County, Michigan",26133,5
+1298,"Oscoda County, Michigan",26135,5
+1299,"Otsego County, Michigan",26137,5
+1300,"Ottawa County, Michigan",26139,5
+1301,"Presque Isle County, Michigan",26141,5
+1302,"Roscommon County, Michigan",26143,5
+1303,"Saginaw County, Michigan",26145,5
+1304,"St. Clair County, Michigan",26147,5
+1305,"St. Joseph County, Michigan",26149,5
+1306,"Sanilac County, Michigan",26151,5
+1307,"Schoolcraft County, Michigan",26153,27
+1308,"Shiawassee County, Michigan",26155,5
+1309,"Tuscola County, Michigan",26157,5
+1310,"Van Buren County, Michigan",26159,5
+1311,"Washtenaw County, Michigan",26161,5
+1312,"Wayne County, Michigan",26163,5
+1313,"Wexford County, Michigan",26165,5
+1314,"Aitkin County, Minnesota",27001,26
+1315,"Anoka County, Minnesota",27003,26
+1316,"Becker County, Minnesota",27005,26
+1317,"Beltrami County, Minnesota",27007,26
+1318,"Benton County, Minnesota",27009,26
+1319,"Big Stone County, Minnesota",27011,26
+1320,"Blue Earth County, Minnesota",27013,26
+1321,"Brown County, Minnesota",27015,26
+1322,"Carlton County, Minnesota",27017,26
+1323,"Carver County, Minnesota",27019,26
+1324,"Cass County, Minnesota",27021,26
+1325,"Chippewa County, Minnesota",27023,26
+1326,"Chisago County, Minnesota",27025,26
+1327,"Clay County, Minnesota",27027,26
+1328,"Clearwater County, Minnesota",27029,26
+1329,"Cook County, Minnesota",27031,26
+1330,"Cottonwood County, Minnesota",27033,26
+1331,"Crow Wing County, Minnesota",27035,26
+1332,"Dakota County, Minnesota",27037,26
+1333,"Dodge County, Minnesota",27039,26
+1334,"Douglas County, Minnesota",27041,26
+1335,"Faribault County, Minnesota",27043,26
+1336,"Fillmore County, Minnesota",27045,26
+1337,"Freeborn County, Minnesota",27047,26
+1338,"Goodhue County, Minnesota",27049,26
+1339,"Grant County, Minnesota",27051,26
+1340,"Hennepin County, Minnesota",27053,26
+1341,"Houston County, Minnesota",27055,26
+1342,"Hubbard County, Minnesota",27057,26
+1343,"Isanti County, Minnesota",27059,26
+1344,"Itasca County, Minnesota",27061,26
+1345,"Jackson County, Minnesota",27063,26
+1346,"Kanabec County, Minnesota",27065,26
+1347,"Kandiyohi County, Minnesota",27067,26
+1348,"Kittson County, Minnesota",27069,26
+1349,"Koochiching County, Minnesota",27071,26
+1350,"Lac qui Parle County, Minnesota",27073,26
+1351,"Lake County, Minnesota",27075,26
+1352,"Lake of the Woods County, Minnesota",27077,26
+1353,"Le Sueur County, Minnesota",27079,26
+1354,"Lincoln County, Minnesota",27081,26
+1355,"Lyon County, Minnesota",27083,26
+1356,"McLeod County, Minnesota",27085,26
+1357,"Mahnomen County, Minnesota",27087,26
+1358,"Marshall County, Minnesota",27089,26
+1359,"Martin County, Minnesota",27091,26
+1360,"Meeker County, Minnesota",27093,26
+1361,"Mille Lacs County, Minnesota",27095,26
+1362,"Morrison County, Minnesota",27097,26
+1363,"Mower County, Minnesota",27099,26
+1364,"Murray County, Minnesota",27101,26
+1365,"Nicollet County, Minnesota",27103,26
+1366,"Nobles County, Minnesota",27105,26
+1367,"Norman County, Minnesota",27107,26
+1368,"Olmsted County, Minnesota",27109,26
+1369,"Otter Tail County, Minnesota",27111,26
+1370,"Pennington County, Minnesota",27113,26
+1371,"Pine County, Minnesota",27115,26
+1372,"Pipestone County, Minnesota",27117,9
+1373,"Polk County, Minnesota",27119,26
+1374,"Pope County, Minnesota",27121,26
+1375,"Ramsey County, Minnesota",27123,26
+1376,"Red Lake County, Minnesota",27125,26
+1377,"Redwood County, Minnesota",27127,26
+1378,"Renville County, Minnesota",27129,26
+1379,"Rice County, Minnesota",27131,26
+1380,"Rock County, Minnesota",27133,9
+1381,"Roseau County, Minnesota",27135,26
+1382,"St. Louis County, Minnesota",27137,26
+1383,"Scott County, Minnesota",27139,26
+1384,"Sherburne County, Minnesota",27141,26
+1385,"Sibley County, Minnesota",27143,26
+1386,"Stearns County, Minnesota",27145,26
+1387,"Steele County, Minnesota",27147,26
+1388,"Stevens County, Minnesota",27149,26
+1389,"Swift County, Minnesota",27151,26
+1390,"Todd County, Minnesota",27153,26
+1391,"Traverse County, Minnesota",27155,26
+1392,"Wabasha County, Minnesota",27157,26
+1393,"Wadena County, Minnesota",27159,26
+1394,"Waseca County, Minnesota",27161,26
+1395,"Washington County, Minnesota",27163,26
+1396,"Watonwan County, Minnesota",27165,26
+1397,"Wilkin County, Minnesota",27167,26
+1398,"Winona County, Minnesota",27169,26
+1399,"Wright County, Minnesota",27171,26
+1400,"Yellow Medicine County, Minnesota",27173,26
+1401,"Adams County, Mississippi",28001,6
+1402,"Alcorn County, Mississippi",28003,19
+1403,"Amite County, Mississippi",28005,6
+1404,"Attala County, Mississippi",28007,6
+1405,"Benton County, Mississippi",28009,19
+1406,"Bolivar County, Mississippi",28011,6
+1407,"Calhoun County, Mississippi",28013,19
+1408,"Carroll County, Mississippi",28015,6
+1409,"Chickasaw County, Mississippi",28017,19
+1410,"Choctaw County, Mississippi",28019,19
+1411,"Claiborne County, Mississippi",28021,6
+1412,"Clarke County, Mississippi",28023,6
+1413,"Clay County, Mississippi",28025,19
+1414,"Coahoma County, Mississippi",28027,19
+1415,"Copiah County, Mississippi",28029,6
+1416,"Covington County, Mississippi",28031,6
+1417,"DeSoto County, Mississippi",28033,19
+1418,"Forrest County, Mississippi",28035,6
+1419,"Franklin County, Mississippi",28037,6
+1420,"George County, Mississippi",28039,6
+1421,"Greene County, Mississippi",28041,6
+1422,"Grenada County, Mississippi",28043,6
+1423,"Hancock County, Mississippi",28045,6
+1424,"Harrison County, Mississippi",28047,6
+1425,"Hinds County, Mississippi",28049,6
+1426,"Holmes County, Mississippi",28051,6
+1427,"Humphreys County, Mississippi",28053,6
+1428,"Issaquena County, Mississippi",28055,6
+1429,"Itawamba County, Mississippi",28057,19
+1430,"Jackson County, Mississippi",28059,6
+1431,"Jasper County, Mississippi",28061,6
+1432,"Jefferson County, Mississippi",28063,6
+1433,"Jefferson Davis County, Mississippi",28065,6
+1434,"Jones County, Mississippi",28067,6
+1435,"Kemper County, Mississippi",28069,6
+1436,"Lafayette County, Mississippi",28071,19
+1437,"Lamar County, Mississippi",28073,6
+1438,"Lauderdale County, Mississippi",28075,6
+1439,"Lawrence County, Mississippi",28077,6
+1440,"Leake County, Mississippi",28079,6
+1441,"Lee County, Mississippi",28081,19
+1442,"Leflore County, Mississippi",28083,6
+1443,"Lincoln County, Mississippi",28085,6
+1444,"Lowndes County, Mississippi",28087,19
+1445,"Madison County, Mississippi",28089,6
+1446,"Marion County, Mississippi",28091,6
+1447,"Marshall County, Mississippi",28093,19
+1448,"Monroe County, Mississippi",28095,19
+1449,"Montgomery County, Mississippi",28097,6
+1450,"Neshoba County, Mississippi",28099,6
+1451,"Newton County, Mississippi",28101,6
+1452,"Noxubee County, Mississippi",28103,19
+1453,"Oktibbeha County, Mississippi",28105,19
+1454,"Panola County, Mississippi",28107,19
+1455,"Pearl River County, Mississippi",28109,6
+1456,"Perry County, Mississippi",28111,6
+1457,"Pike County, Mississippi",28113,6
+1458,"Pontotoc County, Mississippi",28115,19
+1459,"Prentiss County, Mississippi",28117,19
+1460,"Quitman County, Mississippi",28119,19
+1461,"Rankin County, Mississippi",28121,6
+1462,"Scott County, Mississippi",28123,6
+1463,"Sharkey County, Mississippi",28125,6
+1464,"Simpson County, Mississippi",28127,6
+1465,"Smith County, Mississippi",28129,6
+1466,"Stone County, Mississippi",28131,6
+1467,"Sunflower County, Mississippi",28133,6
+1468,"Tallahatchie County, Mississippi",28135,19
+1469,"Tate County, Mississippi",28137,19
+1470,"Tippah County, Mississippi",28139,19
+1471,"Tishomingo County, Mississippi",28141,19
+1472,"Tunica County, Mississippi",28143,19
+1473,"Union County, Mississippi",28145,19
+1474,"Walthall County, Mississippi",28147,6
+1475,"Warren County, Mississippi",28149,6
+1476,"Washington County, Mississippi",28151,6
+1477,"Wayne County, Mississippi",28153,6
+1478,"Webster County, Mississippi",28155,19
+1479,"Wilkinson County, Mississippi",28157,6
+1480,"Winston County, Mississippi",28159,6
+1481,"Yalobusha County, Mississippi",28161,19
+1482,"Yazoo County, Mississippi",28163,6
+1483,"Adair County, Missouri",29001,4
+1484,"Andrew County, Missouri",29003,4
+1485,"Atchison County, Missouri",29005,9
+1486,"Audrain County, Missouri",29007,4
+1487,"Barry County, Missouri",29009,8
+1488,"Barton County, Missouri",29011,8
+1489,"Bates County, Missouri",29013,4
+1490,"Benton County, Missouri",29015,4
+1491,"Bollinger County, Missouri",29017,7
+1492,"Boone County, Missouri",29019,4
+1493,"Buchanan County, Missouri",29021,4
+1494,"Butler County, Missouri",29023,7
+1495,"Caldwell County, Missouri",29025,4
+1496,"Callaway County, Missouri",29027,4
+1497,"Camden County, Missouri",29029,4
+1498,"Cape Girardeau County, Missouri",29031,7
+1499,"Carroll County, Missouri",29033,4
+1500,"Carter County, Missouri",29035,7
+1501,"Cass County, Missouri",29037,4
+1502,"Cedar County, Missouri",29039,4
+1503,"Chariton County, Missouri",29041,4
+1504,"Christian County, Missouri",29043,8
+1505,"Clark County, Missouri",29045,7
+1506,"Clay County, Missouri",29047,4
+1507,"Clinton County, Missouri",29049,4
+1508,"Cole County, Missouri",29051,4
+1509,"Cooper County, Missouri",29053,4
+1510,"Crawford County, Missouri",29055,7
+1511,"Dade County, Missouri",29057,8
+1512,"Dallas County, Missouri",29059,8
+1513,"Daviess County, Missouri",29061,4
+1514,"DeKalb County, Missouri",29063,4
+1515,"Dent County, Missouri",29065,7
+1516,"Douglas County, Missouri",29067,8
+1517,"Dunklin County, Missouri",29069,7
+1518,"Franklin County, Missouri",29071,7
+1519,"Gasconade County, Missouri",29073,7
+1520,"Gentry County, Missouri",29075,4
+1521,"Greene County, Missouri",29077,8
+1522,"Grundy County, Missouri",29079,4
+1523,"Harrison County, Missouri",29081,4
+1524,"Henry County, Missouri",29083,4
+1525,"Hickory County, Missouri",29085,8
+1526,"Holt County, Missouri",29087,4
+1527,"Howard County, Missouri",29089,4
+1528,"Howell County, Missouri",29091,8
+1529,"Iron County, Missouri",29093,7
+1530,"Jackson County, Missouri",29095,4
+1531,"Jasper County, Missouri",29097,8
+1532,"Jefferson County, Missouri",29099,7
+1533,"Johnson County, Missouri",29101,4
+1534,"Knox County, Missouri",29103,7
+1535,"Laclede County, Missouri",29105,8
+1536,"Lafayette County, Missouri",29107,4
+1537,"Lawrence County, Missouri",29109,8
+1538,"Lewis County, Missouri",29111,7
+1539,"Lincoln County, Missouri",29113,7
+1540,"Linn County, Missouri",29115,4
+1541,"Livingston County, Missouri",29117,4
+1542,"McDonald County, Missouri",29119,8
+1543,"Macon County, Missouri",29121,4
+1544,"Madison County, Missouri",29123,7
+1545,"Maries County, Missouri",29125,7
+1546,"Marion County, Missouri",29127,7
+1547,"Mercer County, Missouri",29129,4
+1548,"Miller County, Missouri",29131,4
+1549,"Mississippi County, Missouri",29133,7
+1550,"Moniteau County, Missouri",29135,4
+1551,"Monroe County, Missouri",29137,4
+1552,"Montgomery County, Missouri",29139,7
+1553,"Morgan County, Missouri",29141,4
+1554,"New Madrid County, Missouri",29143,7
+1555,"Newton County, Missouri",29145,8
+1556,"Nodaway County, Missouri",29147,4
+1557,"Oregon County, Missouri",29149,8
+1558,"Osage County, Missouri",29151,7
+1559,"Ozark County, Missouri",29153,8
+1560,"Pemiscot County, Missouri",29155,7
+1561,"Perry County, Missouri",29157,7
+1562,"Pettis County, Missouri",29159,4
+1563,"Phelps County, Missouri",29161,7
+1564,"Pike County, Missouri",29163,7
+1565,"Platte County, Missouri",29165,4
+1566,"Polk County, Missouri",29167,8
+1567,"Pulaski County, Missouri",29169,7
+1568,"Putnam County, Missouri",29171,4
+1569,"Ralls County, Missouri",29173,7
+1570,"Randolph County, Missouri",29175,4
+1571,"Ray County, Missouri",29177,4
+1572,"Reynolds County, Missouri",29179,7
+1573,"Ripley County, Missouri",29181,7
+1574,"St. Charles County, Missouri",29183,7
+1575,"St. Clair County, Missouri",29185,4
+1576,"Ste. Genevieve County, Missouri",29186,7
+1577,"St. Francois County, Missouri",29187,7
+1578,"St. Louis County, Missouri",29189,7
+1579,"Saline County, Missouri",29195,4
+1580,"Schuyler County, Missouri",29197,9
+1581,"Scotland County, Missouri",29199,7
+1582,"Scott County, Missouri",29201,7
+1583,"Shannon County, Missouri",29203,8
+1584,"Shelby County, Missouri",29205,7
+1585,"Stoddard County, Missouri",29207,7
+1586,"Stone County, Missouri",29209,8
+1587,"Sullivan County, Missouri",29211,4
+1588,"Taney County, Missouri",29213,8
+1589,"Texas County, Missouri",29215,8
+1590,"Vernon County, Missouri",29217,4
+1591,"Warren County, Missouri",29219,7
+1592,"Washington County, Missouri",29221,7
+1593,"Wayne County, Missouri",29223,7
+1594,"Webster County, Missouri",29225,8
+1595,"Worth County, Missouri",29227,4
+1596,"Wright County, Missouri",29229,8
+1597,"St. Louis city, Missouri",29510,7
+1598,"Beaverhead County, Montana",30001,21
+1599,"Big Horn County, Montana",30003,21
+1600,"Blaine County, Montana",30005,21
+1601,"Broadwater County, Montana",30007,21
+1602,"Carbon County, Montana",30009,21
+1603,"Carter County, Montana",30011,21
+1604,"Cascade County, Montana",30013,21
+1605,"Chouteau County, Montana",30015,21
+1606,"Custer County, Montana",30017,21
+1607,"Daniels County, Montana",30019,26
+1608,"Dawson County, Montana",30021,26
+1609,"Deer Lodge County, Montana",30023,21
+1610,"Fallon County, Montana",30025,26
+1611,"Fergus County, Montana",30027,21
+1612,"Flathead County, Montana",30029,21
+1613,"Gallatin County, Montana",30031,21
+1614,"Garfield County, Montana",30033,21
+1615,"Glacier County, Montana",30035,21
+1616,"Golden Valley County, Montana",30037,21
+1617,"Granite County, Montana",30039,21
+1618,"Hill County, Montana",30041,21
+1619,"Jefferson County, Montana",30043,21
+1620,"Judith Basin County, Montana",30045,21
+1621,"Lake County, Montana",30047,21
+1622,"Lewis and Clark County, Montana",30049,21
+1623,"Liberty County, Montana",30051,21
+1624,"Lincoln County, Montana",30053,21
+1625,"McCone County, Montana",30055,26
+1626,"Madison County, Montana",30057,21
+1627,"Meagher County, Montana",30059,21
+1628,"Mineral County, Montana",30061,21
+1629,"Missoula County, Montana",30063,21
+1630,"Musselshell County, Montana",30065,21
+1631,"Park County, Montana",30067,21
+1632,"Petroleum County, Montana",30069,21
+1633,"Phillips County, Montana",30071,26
+1634,"Pondera County, Montana",30073,21
+1635,"Powder River County, Montana",30075,21
+1636,"Powell County, Montana",30077,21
+1637,"Prairie County, Montana",30079,21
+1638,"Ravalli County, Montana",30081,21
+1639,"Richland County, Montana",30083,26
+1640,"Roosevelt County, Montana",30085,26
+1641,"Rosebud County, Montana",30087,21
+1642,"Sanders County, Montana",30089,21
+1643,"Sheridan County, Montana",30091,26
+1644,"Silver Bow County, Montana",30093,21
+1645,"Stillwater County, Montana",30095,21
+1646,"Sweet Grass County, Montana",30097,21
+1647,"Teton County, Montana",30099,21
+1648,"Toole County, Montana",30101,21
+1649,"Treasure County, Montana",30103,21
+1650,"Valley County, Montana",30105,26
+1651,"Wheatland County, Montana",30107,21
+1652,"Wibaux County, Montana",30109,26
+1653,"Yellowstone County, Montana",30111,21
+1654,"Adams County, Nebraska",31001,9
+1655,"Antelope County, Nebraska",31003,9
+1656,"Arthur County, Nebraska",31005,9
+1657,"Banner County, Nebraska",31007,28
+1658,"Blaine County, Nebraska",31009,9
+1659,"Boone County, Nebraska",31011,9
+1660,"Box Butte County, Nebraska",31013,28
+1661,"Boyd County, Nebraska",31015,9
+1662,"Brown County, Nebraska",31017,9
+1663,"Buffalo County, Nebraska",31019,9
+1664,"Burt County, Nebraska",31021,9
+1665,"Butler County, Nebraska",31023,9
+1666,"Cass County, Nebraska",31025,9
+1667,"Cedar County, Nebraska",31027,9
+1668,"Chase County, Nebraska",31029,9
+1669,"Cherry County, Nebraska",31031,9
+1670,"Cheyenne County, Nebraska",31033,28
+1671,"Clay County, Nebraska",31035,9
+1672,"Colfax County, Nebraska",31037,9
+1673,"Cuming County, Nebraska",31039,9
+1674,"Custer County, Nebraska",31041,9
+1675,"Dakota County, Nebraska",31043,9
+1676,"Dawes County, Nebraska",31045,28
+1677,"Dawson County, Nebraska",31047,9
+1678,"Deuel County, Nebraska",31049,9
+1679,"Dixon County, Nebraska",31051,9
+1680,"Dodge County, Nebraska",31053,9
+1681,"Douglas County, Nebraska",31055,9
+1682,"Dundy County, Nebraska",31057,9
+1683,"Fillmore County, Nebraska",31059,9
+1684,"Franklin County, Nebraska",31061,9
+1685,"Frontier County, Nebraska",31063,9
+1686,"Furnas County, Nebraska",31065,9
+1687,"Gage County, Nebraska",31067,9
+1688,"Garden County, Nebraska",31069,9
+1689,"Garfield County, Nebraska",31071,9
+1690,"Gosper County, Nebraska",31073,9
+1691,"Grant County, Nebraska",31075,9
+1692,"Greeley County, Nebraska",31077,9
+1693,"Hall County, Nebraska",31079,9
+1694,"Hamilton County, Nebraska",31081,9
+1695,"Harlan County, Nebraska",31083,9
+1696,"Hayes County, Nebraska",31085,9
+1697,"Hitchcock County, Nebraska",31087,9
+1698,"Holt County, Nebraska",31089,9
+1699,"Hooker County, Nebraska",31091,9
+1700,"Howard County, Nebraska",31093,9
+1701,"Jefferson County, Nebraska",31095,9
+1702,"Johnson County, Nebraska",31097,9
+1703,"Kearney County, Nebraska",31099,9
+1704,"Keith County, Nebraska",31101,9
+1705,"Keya Paha County, Nebraska",31103,9
+1706,"Kimball County, Nebraska",31105,28
+1707,"Knox County, Nebraska",31107,9
+1708,"Lancaster County, Nebraska",31109,9
+1709,"Lincoln County, Nebraska",31111,9
+1710,"Logan County, Nebraska",31113,9
+1711,"Loup County, Nebraska",31115,9
+1712,"McPherson County, Nebraska",31117,9
+1713,"Madison County, Nebraska",31119,9
+1714,"Merrick County, Nebraska",31121,9
+1715,"Morrill County, Nebraska",31123,28
+1716,"Nance County, Nebraska",31125,9
+1717,"Nemaha County, Nebraska",31127,9
+1718,"Nuckolls County, Nebraska",31129,9
+1719,"Otoe County, Nebraska",31131,9
+1720,"Pawnee County, Nebraska",31133,9
+1721,"Perkins County, Nebraska",31135,9
+1722,"Phelps County, Nebraska",31137,9
+1723,"Pierce County, Nebraska",31139,9
+1724,"Platte County, Nebraska",31141,9
+1725,"Polk County, Nebraska",31143,9
+1726,"Red Willow County, Nebraska",31145,9
+1727,"Richardson County, Nebraska",31147,9
+1728,"Rock County, Nebraska",31149,9
+1729,"Saline County, Nebraska",31151,9
+1730,"Sarpy County, Nebraska",31153,9
+1731,"Saunders County, Nebraska",31155,9
+1732,"Scotts Bluff County, Nebraska",31157,28
+1733,"Seward County, Nebraska",31159,9
+1734,"Sheridan County, Nebraska",31161,28
+1735,"Sherman County, Nebraska",31163,9
+1736,"Sioux County, Nebraska",31165,28
+1737,"Stanton County, Nebraska",31167,9
+1738,"Thayer County, Nebraska",31169,9
+1739,"Thomas County, Nebraska",31171,9
+1740,"Thurston County, Nebraska",31173,9
+1741,"Valley County, Nebraska",31175,9
+1742,"Washington County, Nebraska",31177,9
+1743,"Wayne County, Nebraska",31179,9
+1744,"Webster County, Nebraska",31181,9
+1745,"Wheeler County, Nebraska",31183,9
+1746,"York County, Nebraska",31185,9
+1747,"Churchill County, Nevada",32001,10
+1748,"Clark County, Nevada",32003,0
+1749,"Douglas County, Nevada",32005,10
+1750,"Elko County, Nevada",32007,21
+1751,"Esmeralda County, Nevada",32009,0
+1752,"Eureka County, Nevada",32011,21
+1753,"Humboldt County, Nevada",32013,10
+1754,"Lander County, Nevada",32015,21
+1755,"Lincoln County, Nevada",32017,0
+1756,"Lyon County, Nevada",32019,10
+1757,"Mineral County, Nevada",32021,10
+1758,"Nye County, Nevada",32023,0
+1759,"Pershing County, Nevada",32027,10
+1760,"Storey County, Nevada",32029,10
+1761,"Washoe County, Nevada",32031,10
+1762,"White Pine County, Nevada",32033,21
+1763,"Carson City, Nevada",32510,10
+1764,"Belknap County, New Hampshire",33001,11
+1765,"Carroll County, New Hampshire",33003,11
+1766,"Cheshire County, New Hampshire",33005,11
+1767,"Coos County, New Hampshire",33007,11
+1768,"Grafton County, New Hampshire",33009,11
+1769,"Hillsborough County, New Hampshire",33011,11
+1770,"Merrimack County, New Hampshire",33013,11
+1771,"Rockingham County, New Hampshire",33015,11
+1772,"Strafford County, New Hampshire",33017,11
+1773,"Sullivan County, New Hampshire",33019,11
+1774,"Atlantic County, New Jersey",34001,15
+1775,"Bergen County, New Jersey",34003,12
+1776,"Burlington County, New Jersey",34005,15
+1777,"Camden County, New Jersey",34007,15
+1778,"Cape May County, New Jersey",34009,15
+1779,"Cumberland County, New Jersey",34011,15
+1780,"Essex County, New Jersey",34013,12
+1781,"Gloucester County, New Jersey",34015,15
+1782,"Hudson County, New Jersey",34017,12
+1783,"Hunterdon County, New Jersey",34019,12
+1784,"Mercer County, New Jersey",34021,12
+1785,"Middlesex County, New Jersey",34023,12
+1786,"Monmouth County, New Jersey",34025,12
+1787,"Morris County, New Jersey",34027,12
+1788,"Ocean County, New Jersey",34029,12
+1789,"Passaic County, New Jersey",34031,12
+1790,"Salem County, New Jersey",34033,15
+1791,"Somerset County, New Jersey",34035,12
+1792,"Sussex County, New Jersey",34037,12
+1793,"Union County, New Jersey",34039,12
+1794,"Warren County, New Jersey",34041,12
+1795,"Bernalillo County, New Mexico",35001,0
+1796,"Catron County, New Mexico",35003,0
+1797,"Chaves County, New Mexico",35005,20
+1798,"Cibola County, New Mexico",35006,0
+1799,"Colfax County, New Mexico",35007,0
+1800,"Curry County, New Mexico",35009,20
+1801,"De Baca County, New Mexico",35011,20
+1802,"DoÃ±a Ana County, New Mexico",35013,0
+1803,"Eddy County, New Mexico",35015,20
+1804,"Grant County, New Mexico",35017,0
+1805,"Guadalupe County, New Mexico",35019,0
+1806,"Harding County, New Mexico",35021,0
+1807,"Hidalgo County, New Mexico",35023,0
+1808,"Lea County, New Mexico",35025,20
+1809,"Lincoln County, New Mexico",35027,0
+1810,"Los Alamos County, New Mexico",35028,0
+1811,"Luna County, New Mexico",35029,0
+1812,"McKinley County, New Mexico",35031,0
+1813,"Mora County, New Mexico",35033,0
+1814,"Otero County, New Mexico",35035,0
+1815,"Quay County, New Mexico",35037,0
+1816,"Rio Arriba County, New Mexico",35039,0
+1817,"Roosevelt County, New Mexico",35041,20
+1818,"Sandoval County, New Mexico",35043,0
+1819,"San Juan County, New Mexico",35045,0
+1820,"San Miguel County, New Mexico",35047,0
+1821,"Santa Fe County, New Mexico",35049,0
+1822,"Sierra County, New Mexico",35051,0
+1823,"Socorro County, New Mexico",35053,0
+1824,"Taos County, New Mexico",35055,0
+1825,"Torrance County, New Mexico",35057,0
+1826,"Union County, New Mexico",35059,0
+1827,"Valencia County, New Mexico",35061,0
+1828,"Albany County, New York",36001,13
+1829,"Allegany County, New York",36003,13
+1830,"Bronx County, New York",36005,12
+1831,"Broome County, New York",36007,13
+1832,"Cattaraugus County, New York",36009,13
+1833,"Cayuga County, New York",36011,13
+1834,"Chautauqua County, New York",36013,13
+1835,"Chemung County, New York",36015,13
+1836,"Chenango County, New York",36017,13
+1837,"Clinton County, New York",36019,11
+1838,"Columbia County, New York",36021,12
+1839,"Cortland County, New York",36023,13
+1840,"Delaware County, New York",36025,13
+1841,"Dutchess County, New York",36027,12
+1842,"Erie County, New York",36029,13
+1843,"Essex County, New York",36031,11
+1844,"Franklin County, New York",36033,11
+1845,"Fulton County, New York",36035,13
+1846,"Genesee County, New York",36037,13
+1847,"Greene County, New York",36039,12
+1848,"Hamilton County, New York",36041,13
+1849,"Herkimer County, New York",36043,13
+1850,"Jefferson County, New York",36045,13
+1851,"Kings County, New York",36047,12
+1852,"Lewis County, New York",36049,13
+1853,"Livingston County, New York",36051,13
+1854,"Madison County, New York",36053,13
+1855,"Monroe County, New York",36055,13
+1856,"Montgomery County, New York",36057,13
+1857,"Nassau County, New York",36059,12
+1858,"New York County, New York",36061,12
+1859,"Niagara County, New York",36063,13
+1860,"Oneida County, New York",36065,13
+1861,"Onondaga County, New York",36067,13
+1862,"Ontario County, New York",36069,13
+1863,"Orange County, New York",36071,12
+1864,"Orleans County, New York",36073,13
+1865,"Oswego County, New York",36075,13
+1866,"Otsego County, New York",36077,13
+1867,"Putnam County, New York",36079,12
+1868,"Queens County, New York",36081,12
+1869,"Rensselaer County, New York",36083,13
+1870,"Richmond County, New York",36085,12
+1871,"Rockland County, New York",36087,12
+1872,"St. Lawrence County, New York",36089,11
+1873,"Saratoga County, New York",36091,13
+1874,"Schenectady County, New York",36093,13
+1875,"Schoharie County, New York",36095,13
+1876,"Schuyler County, New York",36097,13
+1877,"Seneca County, New York",36099,13
+1878,"Steuben County, New York",36101,13
+1879,"Suffolk County, New York",36103,12
+1880,"Sullivan County, New York",36105,12
+1881,"Tioga County, New York",36107,13
+1882,"Tompkins County, New York",36109,13
+1883,"Ulster County, New York",36111,12
+1884,"Warren County, New York",36113,13
+1885,"Washington County, New York",36115,13
+1886,"Wayne County, New York",36117,13
+1887,"Westchester County, New York",36119,12
+1888,"Wyoming County, New York",36121,13
+1889,"Yates County, New York",36123,13
+1890,"Alamance County, North Carolina",37001,18
+1891,"Alexander County, North Carolina",37003,18
+1892,"Alleghany County, North Carolina",37005,18
+1893,"Anson County, North Carolina",37007,18
+1894,"Ashe County, North Carolina",37009,18
+1895,"Avery County, North Carolina",37011,18
+1896,"Beaufort County, North Carolina",37013,18
+1897,"Bertie County, North Carolina",37015,22
+1898,"Bladen County, North Carolina",37017,18
+1899,"Brunswick County, North Carolina",37019,18
+1900,"Buncombe County, North Carolina",37021,18
+1901,"Burke County, North Carolina",37023,18
+1902,"Cabarrus County, North Carolina",37025,18
+1903,"Caldwell County, North Carolina",37027,18
+1904,"Camden County, North Carolina",37029,22
+1905,"Carteret County, North Carolina",37031,18
+1906,"Caswell County, North Carolina",37033,18
+1907,"Catawba County, North Carolina",37035,18
+1908,"Chatham County, North Carolina",37037,18
+1909,"Cherokee County, North Carolina",37039,2
+1910,"Chowan County, North Carolina",37041,22
+1911,"Clay County, North Carolina",37043,2
+1912,"Cleveland County, North Carolina",37045,18
+1913,"Columbus County, North Carolina",37047,18
+1914,"Craven County, North Carolina",37049,18
+1915,"Cumberland County, North Carolina",37051,18
+1916,"Currituck County, North Carolina",37053,22
+1917,"Dare County, North Carolina",37055,22
+1918,"Davidson County, North Carolina",37057,18
+1919,"Davie County, North Carolina",37059,18
+1920,"Duplin County, North Carolina",37061,18
+1921,"Durham County, North Carolina",37063,18
+1922,"Edgecombe County, North Carolina",37065,18
+1923,"Forsyth County, North Carolina",37067,18
+1924,"Franklin County, North Carolina",37069,18
+1925,"Gaston County, North Carolina",37071,18
+1926,"Gates County, North Carolina",37073,22
+1927,"Graham County, North Carolina",37075,18
+1928,"Granville County, North Carolina",37077,18
+1929,"Greene County, North Carolina",37079,18
+1930,"Guilford County, North Carolina",37081,18
+1931,"Halifax County, North Carolina",37083,18
+1932,"Harnett County, North Carolina",37085,18
+1933,"Haywood County, North Carolina",37087,18
+1934,"Henderson County, North Carolina",37089,18
+1935,"Hertford County, North Carolina",37091,22
+1936,"Hoke County, North Carolina",37093,18
+1937,"Hyde County, North Carolina",37095,18
+1938,"Iredell County, North Carolina",37097,18
+1939,"Jackson County, North Carolina",37099,18
+1940,"Johnston County, North Carolina",37101,18
+1941,"Jones County, North Carolina",37103,18
+1942,"Lee County, North Carolina",37105,18
+1943,"Lenoir County, North Carolina",37107,18
+1944,"Lincoln County, North Carolina",37109,18
+1945,"McDowell County, North Carolina",37111,18
+1946,"Macon County, North Carolina",37113,18
+1947,"Madison County, North Carolina",37115,18
+1948,"Martin County, North Carolina",37117,18
+1949,"Mecklenburg County, North Carolina",37119,18
+1950,"Mitchell County, North Carolina",37121,18
+1951,"Montgomery County, North Carolina",37123,18
+1952,"Moore County, North Carolina",37125,18
+1953,"Nash County, North Carolina",37127,18
+1954,"New Hanover County, North Carolina",37129,18
+1955,"Northampton County, North Carolina",37131,18
+1956,"Onslow County, North Carolina",37133,18
+1957,"Orange County, North Carolina",37135,18
+1958,"Pamlico County, North Carolina",37137,18
+1959,"Pasquotank County, North Carolina",37139,22
+1960,"Pender County, North Carolina",37141,18
+1961,"Perquimans County, North Carolina",37143,22
+1962,"Person County, North Carolina",37145,18
+1963,"Pitt County, North Carolina",37147,18
+1964,"Polk County, North Carolina",37149,18
+1965,"Randolph County, North Carolina",37151,18
+1966,"Richmond County, North Carolina",37153,18
+1967,"Robeson County, North Carolina",37155,18
+1968,"Rockingham County, North Carolina",37157,18
+1969,"Rowan County, North Carolina",37159,18
+1970,"Rutherford County, North Carolina",37161,18
+1971,"Sampson County, North Carolina",37163,18
+1972,"Scotland County, North Carolina",37165,18
+1973,"Stanly County, North Carolina",37167,18
+1974,"Stokes County, North Carolina",37169,18
+1975,"Surry County, North Carolina",37171,18
+1976,"Swain County, North Carolina",37173,18
+1977,"Transylvania County, North Carolina",37175,18
+1978,"Tyrrell County, North Carolina",37177,18
+1979,"Union County, North Carolina",37179,18
+1980,"Vance County, North Carolina",37181,18
+1981,"Wake County, North Carolina",37183,18
+1982,"Warren County, North Carolina",37185,18
+1983,"Washington County, North Carolina",37187,18
+1984,"Watauga County, North Carolina",37189,18
+1985,"Wayne County, North Carolina",37191,18
+1986,"Wilkes County, North Carolina",37193,18
+1987,"Wilson County, North Carolina",37195,18
+1988,"Yadkin County, North Carolina",37197,18
+1989,"Yancey County, North Carolina",37199,18
+1990,"Adams County, North Dakota",38001,26
+1991,"Barnes County, North Dakota",38003,26
+1992,"Benson County, North Dakota",38005,26
+1993,"Billings County, North Dakota",38007,26
+1994,"Bottineau County, North Dakota",38009,26
+1995,"Bowman County, North Dakota",38011,26
+1996,"Burke County, North Dakota",38013,26
+1997,"Burleigh County, North Dakota",38015,26
+1998,"Cass County, North Dakota",38017,26
+1999,"Cavalier County, North Dakota",38019,26
+2000,"Dickey County, North Dakota",38021,26
+2001,"Divide County, North Dakota",38023,26
+2002,"Dunn County, North Dakota",38025,26
+2003,"Eddy County, North Dakota",38027,26
+2004,"Emmons County, North Dakota",38029,26
+2005,"Foster County, North Dakota",38031,26
+2006,"Golden Valley County, North Dakota",38033,26
+2007,"Grand Forks County, North Dakota",38035,26
+2008,"Grant County, North Dakota",38037,26
+2009,"Griggs County, North Dakota",38039,26
+2010,"Hettinger County, North Dakota",38041,26
+2011,"Kidder County, North Dakota",38043,26
+2012,"LaMoure County, North Dakota",38045,26
+2013,"Logan County, North Dakota",38047,26
+2014,"McHenry County, North Dakota",38049,26
+2015,"McIntosh County, North Dakota",38051,26
+2016,"McKenzie County, North Dakota",38053,26
+2017,"McLean County, North Dakota",38055,26
+2018,"Mercer County, North Dakota",38057,26
+2019,"Morton County, North Dakota",38059,26
+2020,"Mountrail County, North Dakota",38061,26
+2021,"Nelson County, North Dakota",38063,26
+2022,"Oliver County, North Dakota",38065,26
+2023,"Pembina County, North Dakota",38067,26
+2024,"Pierce County, North Dakota",38069,26
+2025,"Ramsey County, North Dakota",38071,26
+2026,"Ransom County, North Dakota",38073,26
+2027,"Renville County, North Dakota",38075,26
+2028,"Richland County, North Dakota",38077,26
+2029,"Rolette County, North Dakota",38079,26
+2030,"Sargent County, North Dakota",38081,26
+2031,"Sheridan County, North Dakota",38083,26
+2032,"Sioux County, North Dakota",38085,26
+2033,"Slope County, North Dakota",38087,26
+2034,"Stark County, North Dakota",38089,26
+2035,"Steele County, North Dakota",38091,26
+2036,"Stutsman County, North Dakota",38093,26
+2037,"Towner County, North Dakota",38095,26
+2038,"Traill County, North Dakota",38097,26
+2039,"Walsh County, North Dakota",38099,26
+2040,"Ward County, North Dakota",38101,26
+2041,"Wells County, North Dakota",38103,26
+2042,"Williams County, North Dakota",38105,26
+2043,"Adams County, Ohio",39001,14
+2044,"Allen County, Ohio",39003,14
+2045,"Ashland County, Ohio",39005,16
+2046,"Ashtabula County, Ohio",39007,16
+2047,"Athens County, Ohio",39009,14
+2048,"Auglaize County, Ohio",39011,14
+2049,"Belmont County, Ohio",39013,16
+2050,"Brown County, Ohio",39015,14
+2051,"Butler County, Ohio",39017,14
+2052,"Carroll County, Ohio",39019,16
+2053,"Champaign County, Ohio",39021,14
+2054,"Clark County, Ohio",39023,14
+2055,"Clermont County, Ohio",39025,14
+2056,"Clinton County, Ohio",39027,14
+2057,"Columbiana County, Ohio",39029,16
+2058,"Coshocton County, Ohio",39031,16
+2059,"Crawford County, Ohio",39033,14
+2060,"Cuyahoga County, Ohio",39035,16
+2061,"Darke County, Ohio",39037,14
+2062,"Defiance County, Ohio",39039,5
+2063,"Delaware County, Ohio",39041,14
+2064,"Erie County, Ohio",39043,16
+2065,"Fairfield County, Ohio",39045,14
+2066,"Fayette County, Ohio",39047,14
+2067,"Franklin County, Ohio",39049,14
+2068,"Fulton County, Ohio",39051,5
+2069,"Gallia County, Ohio",39053,25
+2070,"Geauga County, Ohio",39055,16
+2071,"Greene County, Ohio",39057,14
+2072,"Guernsey County, Ohio",39059,14
+2073,"Hamilton County, Ohio",39061,14
+2074,"Hancock County, Ohio",39063,5
+2075,"Hardin County, Ohio",39065,14
+2076,"Harrison County, Ohio",39067,16
+2077,"Henry County, Ohio",39069,5
+2078,"Highland County, Ohio",39071,14
+2079,"Hocking County, Ohio",39073,14
+2080,"Holmes County, Ohio",39075,16
+2081,"Huron County, Ohio",39077,16
+2082,"Jackson County, Ohio",39079,14
+2083,"Jefferson County, Ohio",39081,16
+2084,"Knox County, Ohio",39083,14
+2085,"Lake County, Ohio",39085,16
+2086,"Lawrence County, Ohio",39087,25
+2087,"Licking County, Ohio",39089,14
+2088,"Logan County, Ohio",39091,14
+2089,"Lorain County, Ohio",39093,16
+2090,"Lucas County, Ohio",39095,5
+2091,"Madison County, Ohio",39097,14
+2092,"Mahoning County, Ohio",39099,16
+2093,"Marion County, Ohio",39101,14
+2094,"Medina County, Ohio",39103,16
+2095,"Meigs County, Ohio",39105,25
+2096,"Mercer County, Ohio",39107,14
+2097,"Miami County, Ohio",39109,14
+2098,"Monroe County, Ohio",39111,16
+2099,"Montgomery County, Ohio",39113,14
+2100,"Morgan County, Ohio",39115,14
+2101,"Morrow County, Ohio",39117,14
+2102,"Muskingum County, Ohio",39119,14
+2103,"Noble County, Ohio",39121,14
+2104,"Ottawa County, Ohio",39123,5
+2105,"Paulding County, Ohio",39125,14
+2106,"Perry County, Ohio",39127,14
+2107,"Pickaway County, Ohio",39129,14
+2108,"Pike County, Ohio",39131,14
+2109,"Portage County, Ohio",39133,16
+2110,"Preble County, Ohio",39135,14
+2111,"Putnam County, Ohio",39137,14
+2112,"Richland County, Ohio",39139,14
+2113,"Ross County, Ohio",39141,14
+2114,"Sandusky County, Ohio",39143,5
+2115,"Scioto County, Ohio",39145,25
+2116,"Seneca County, Ohio",39147,5
+2117,"Shelby County, Ohio",39149,14
+2118,"Stark County, Ohio",39151,16
+2119,"Summit County, Ohio",39153,16
+2120,"Trumbull County, Ohio",39155,16
+2121,"Tuscarawas County, Ohio",39157,16
+2122,"Union County, Ohio",39159,14
+2123,"Van Wert County, Ohio",39161,14
+2124,"Vinton County, Ohio",39163,14
+2125,"Warren County, Ohio",39165,14
+2126,"Washington County, Ohio",39167,25
+2127,"Wayne County, Ohio",39169,16
+2128,"Williams County, Ohio",39171,5
+2129,"Wood County, Ohio",39173,5
+2130,"Wyandot County, Ohio",39175,5
+2131,"Adair County, Oklahoma",40001,8
+2132,"Alfalfa County, Oklahoma",40003,8
+2133,"Atoka County, Oklahoma",40005,20
+2134,"Beaver County, Oklahoma",40007,4
+2135,"Beckham County, Oklahoma",40009,8
+2136,"Blaine County, Oklahoma",40011,8
+2137,"Bryan County, Oklahoma",40013,20
+2138,"Caddo County, Oklahoma",40015,8
+2139,"Canadian County, Oklahoma",40017,8
+2140,"Carter County, Oklahoma",40019,8
+2141,"Cherokee County, Oklahoma",40021,8
+2142,"Choctaw County, Oklahoma",40023,20
+2143,"Cimarron County, Oklahoma",40025,4
+2144,"Cleveland County, Oklahoma",40027,8
+2145,"Coal County, Oklahoma",40029,8
+2146,"Comanche County, Oklahoma",40031,8
+2147,"Cotton County, Oklahoma",40033,8
+2148,"Craig County, Oklahoma",40035,8
+2149,"Creek County, Oklahoma",40037,8
+2150,"Custer County, Oklahoma",40039,8
+2151,"Delaware County, Oklahoma",40041,8
+2152,"Dewey County, Oklahoma",40043,8
+2153,"Ellis County, Oklahoma",40045,8
+2154,"Garfield County, Oklahoma",40047,8
+2155,"Garvin County, Oklahoma",40049,8
+2156,"Grady County, Oklahoma",40051,8
+2157,"Grant County, Oklahoma",40053,8
+2158,"Greer County, Oklahoma",40055,8
+2159,"Harmon County, Oklahoma",40057,8
+2160,"Harper County, Oklahoma",40059,8
+2161,"Haskell County, Oklahoma",40061,8
+2162,"Hughes County, Oklahoma",40063,8
+2163,"Jackson County, Oklahoma",40065,8
+2164,"Jefferson County, Oklahoma",40067,8
+2165,"Johnston County, Oklahoma",40069,20
+2166,"Kay County, Oklahoma",40071,8
+2167,"Kingfisher County, Oklahoma",40073,8
+2168,"Kiowa County, Oklahoma",40075,8
+2169,"Latimer County, Oklahoma",40077,8
+2170,"Le Flore County, Oklahoma",40079,8
+2171,"Lincoln County, Oklahoma",40081,8
+2172,"Logan County, Oklahoma",40083,8
+2173,"Love County, Oklahoma",40085,8
+2174,"McClain County, Oklahoma",40087,8
+2175,"McCurtain County, Oklahoma",40089,20
+2176,"McIntosh County, Oklahoma",40091,8
+2177,"Major County, Oklahoma",40093,8
+2178,"Marshall County, Oklahoma",40095,20
+2179,"Mayes County, Oklahoma",40097,8
+2180,"Murray County, Oklahoma",40099,8
+2181,"Muskogee County, Oklahoma",40101,8
+2182,"Noble County, Oklahoma",40103,8
+2183,"Nowata County, Oklahoma",40105,8
+2184,"Okfuskee County, Oklahoma",40107,8
+2185,"Oklahoma County, Oklahoma",40109,8
+2186,"Okmulgee County, Oklahoma",40111,8
+2187,"Osage County, Oklahoma",40113,8
+2188,"Ottawa County, Oklahoma",40115,8
+2189,"Pawnee County, Oklahoma",40117,8
+2190,"Payne County, Oklahoma",40119,8
+2191,"Pittsburg County, Oklahoma",40121,8
+2192,"Pontotoc County, Oklahoma",40123,8
+2193,"Pottawatomie County, Oklahoma",40125,8
+2194,"Pushmataha County, Oklahoma",40127,20
+2195,"Roger Mills County, Oklahoma",40129,8
+2196,"Rogers County, Oklahoma",40131,8
+2197,"Seminole County, Oklahoma",40133,8
+2198,"Sequoyah County, Oklahoma",40135,8
+2199,"Stephens County, Oklahoma",40137,8
+2200,"Texas County, Oklahoma",40139,4
+2201,"Tillman County, Oklahoma",40141,8
+2202,"Tulsa County, Oklahoma",40143,8
+2203,"Wagoner County, Oklahoma",40145,8
+2204,"Washington County, Oklahoma",40147,8
+2205,"Washita County, Oklahoma",40149,8
+2206,"Woods County, Oklahoma",40151,8
+2207,"Woodward County, Oklahoma",40153,8
+2208,"Baker County, Oregon",41001,24
+2209,"Benton County, Oregon",41003,24
+2210,"Clackamas County, Oregon",41005,24
+2211,"Clatsop County, Oregon",41007,24
+2212,"Columbia County, Oregon",41009,24
+2213,"Coos County, Oregon",41011,24
+2214,"Crook County, Oregon",41013,24
+2215,"Curry County, Oregon",41015,10
+2216,"Deschutes County, Oregon",41017,24
+2217,"Douglas County, Oregon",41019,24
+2218,"Gilliam County, Oregon",41021,24
+2219,"Grant County, Oregon",41023,24
+2220,"Harney County, Oregon",41025,24
+2221,"Hood River County, Oregon",41027,24
+2222,"Jackson County, Oregon",41029,24
+2223,"Jefferson County, Oregon",41031,24
+2224,"Josephine County, Oregon",41033,24
+2225,"Klamath County, Oregon",41035,24
+2226,"Lake County, Oregon",41037,24
+2227,"Lane County, Oregon",41039,24
+2228,"Lincoln County, Oregon",41041,24
+2229,"Linn County, Oregon",41043,24
+2230,"Malheur County, Oregon",41045,21
+2231,"Marion County, Oregon",41047,24
+2232,"Morrow County, Oregon",41049,24
+2233,"Multnomah County, Oregon",41051,24
+2234,"Polk County, Oregon",41053,24
+2235,"Sherman County, Oregon",41055,24
+2236,"Tillamook County, Oregon",41057,24
+2237,"Umatilla County, Oregon",41059,24
+2238,"Union County, Oregon",41061,24
+2239,"Wallowa County, Oregon",41063,24
+2240,"Wasco County, Oregon",41065,24
+2241,"Washington County, Oregon",41067,24
+2242,"Wheeler County, Oregon",41069,24
+2243,"Yamhill County, Oregon",41071,24
+2244,"Adams County, Pennsylvania",42001,17
+2245,"Allegheny County, Pennsylvania",42003,16
+2246,"Armstrong County, Pennsylvania",42005,16
+2247,"Beaver County, Pennsylvania",42007,16
+2248,"Bedford County, Pennsylvania",42009,16
+2249,"Berks County, Pennsylvania",42011,15
+2250,"Blair County, Pennsylvania",42013,16
+2251,"Bradford County, Pennsylvania",42015,13
+2252,"Bucks County, Pennsylvania",42017,15
+2253,"Butler County, Pennsylvania",42019,16
+2254,"Cambria County, Pennsylvania",42021,16
+2255,"Cameron County, Pennsylvania",42023,16
+2256,"Carbon County, Pennsylvania",42025,15
+2257,"Centre County, Pennsylvania",42027,16
+2258,"Chester County, Pennsylvania",42029,15
+2259,"Clarion County, Pennsylvania",42031,16
+2260,"Clearfield County, Pennsylvania",42033,16
+2261,"Clinton County, Pennsylvania",42035,15
+2262,"Columbia County, Pennsylvania",42037,15
+2263,"Crawford County, Pennsylvania",42039,16
+2264,"Cumberland County, Pennsylvania",42041,17
+2265,"Dauphin County, Pennsylvania",42043,17
+2266,"Delaware County, Pennsylvania",42045,15
+2267,"Elk County, Pennsylvania",42047,16
+2268,"Erie County, Pennsylvania",42049,16
+2269,"Fayette County, Pennsylvania",42051,16
+2270,"Forest County, Pennsylvania",42053,16
+2271,"Franklin County, Pennsylvania",42055,17
+2272,"Fulton County, Pennsylvania",42057,17
+2273,"Greene County, Pennsylvania",42059,16
+2274,"Huntingdon County, Pennsylvania",42061,16
+2275,"Indiana County, Pennsylvania",42063,16
+2276,"Jefferson County, Pennsylvania",42065,16
+2277,"Juniata County, Pennsylvania",42067,16
+2278,"Lackawanna County, Pennsylvania",42069,15
+2279,"Lancaster County, Pennsylvania",42071,15
+2280,"Lawrence County, Pennsylvania",42073,16
+2281,"Lebanon County, Pennsylvania",42075,15
+2282,"Lehigh County, Pennsylvania",42077,15
+2283,"Luzerne County, Pennsylvania",42079,15
+2284,"Lycoming County, Pennsylvania",42081,15
+2285,"McKean County, Pennsylvania",42083,13
+2286,"Mercer County, Pennsylvania",42085,16
+2287,"Mifflin County, Pennsylvania",42087,16
+2288,"Monroe County, Pennsylvania",42089,15
+2289,"Montgomery County, Pennsylvania",42091,15
+2290,"Montour County, Pennsylvania",42093,15
+2291,"Northampton County, Pennsylvania",42095,15
+2292,"Northumberland County, Pennsylvania",42097,15
+2293,"Perry County, Pennsylvania",42099,17
+2294,"Philadelphia County, Pennsylvania",42101,15
+2295,"Pike County, Pennsylvania",42103,12
+2296,"Potter County, Pennsylvania",42105,13
+2297,"Schuylkill County, Pennsylvania",42107,15
+2298,"Snyder County, Pennsylvania",42109,15
+2299,"Somerset County, Pennsylvania",42111,16
+2300,"Sullivan County, Pennsylvania",42113,15
+2301,"Susquehanna County, Pennsylvania",42115,15
+2302,"Tioga County, Pennsylvania",42117,13
+2303,"Union County, Pennsylvania",42119,15
+2304,"Venango County, Pennsylvania",42121,16
+2305,"Warren County, Pennsylvania",42123,13
+2306,"Washington County, Pennsylvania",42125,16
+2307,"Wayne County, Pennsylvania",42127,15
+2308,"Westmoreland County, Pennsylvania",42129,16
+2309,"Wyoming County, Pennsylvania",42131,15
+2310,"York County, Pennsylvania",42133,17
+2311,"Bristol County, Rhode Island",44001,11
+2312,"Kent County, Rhode Island",44003,11
+2313,"Newport County, Rhode Island",44005,11
+2314,"Providence County, Rhode Island",44007,11
+2315,"Washington County, Rhode Island",44009,11
+2316,"Abbeville County, South Carolina",45001,18
+2317,"Aiken County, South Carolina",45003,18
+2318,"Allendale County, South Carolina",45005,2
+2319,"Anderson County, South Carolina",45007,18
+2320,"Bamberg County, South Carolina",45009,18
+2321,"Barnwell County, South Carolina",45011,18
+2322,"Beaufort County, South Carolina",45013,2
+2323,"Berkeley County, South Carolina",45015,18
+2324,"Calhoun County, South Carolina",45017,18
+2325,"Charleston County, South Carolina",45019,18
+2326,"Cherokee County, South Carolina",45021,18
+2327,"Chester County, South Carolina",45023,18
+2328,"Chesterfield County, South Carolina",45025,18
+2329,"Clarendon County, South Carolina",45027,18
+2330,"Colleton County, South Carolina",45029,18
+2331,"Darlington County, South Carolina",45031,18
+2332,"Dillon County, South Carolina",45033,18
+2333,"Dorchester County, South Carolina",45035,18
+2334,"Edgefield County, South Carolina",45037,18
+2335,"Fairfield County, South Carolina",45039,18
+2336,"Florence County, South Carolina",45041,18
+2337,"Georgetown County, South Carolina",45043,18
+2338,"Greenville County, South Carolina",45045,18
+2339,"Greenwood County, South Carolina",45047,18
+2340,"Hampton County, South Carolina",45049,2
+2341,"Horry County, South Carolina",45051,18
+2342,"Jasper County, South Carolina",45053,2
+2343,"Kershaw County, South Carolina",45055,18
+2344,"Lancaster County, South Carolina",45057,18
+2345,"Laurens County, South Carolina",45059,18
+2346,"Lee County, South Carolina",45061,18
+2347,"Lexington County, South Carolina",45063,18
+2348,"McCormick County, South Carolina",45065,18
+2349,"Marion County, South Carolina",45067,18
+2350,"Marlboro County, South Carolina",45069,18
+2351,"Newberry County, South Carolina",45071,18
+2352,"Oconee County, South Carolina",45073,18
+2353,"Orangeburg County, South Carolina",45075,18
+2354,"Pickens County, South Carolina",45077,18
+2355,"Richland County, South Carolina",45079,18
+2356,"Saluda County, South Carolina",45081,18
+2357,"Spartanburg County, South Carolina",45083,18
+2358,"Sumter County, South Carolina",45085,18
+2359,"Union County, South Carolina",45087,18
+2360,"Williamsburg County, South Carolina",45089,18
+2361,"York County, South Carolina",45091,18
+2362,"Aurora County, South Dakota",46003,9
+2363,"Beadle County, South Dakota",46005,9
+2364,"Bennett County, South Dakota",46007,28
+2365,"Bon Homme County, South Dakota",46009,9
+2366,"Brookings County, South Dakota",46011,9
+2367,"Brown County, South Dakota",46013,26
+2368,"Brule County, South Dakota",46015,9
+2369,"Buffalo County, South Dakota",46017,9
+2370,"Butte County, South Dakota",46019,28
+2371,"Campbell County, South Dakota",46021,26
+2372,"Charles Mix County, South Dakota",46023,9
+2373,"Clark County, South Dakota",46025,9
+2374,"Clay County, South Dakota",46027,9
+2375,"Codington County, South Dakota",46029,9
+2376,"Corson County, South Dakota",46031,26
+2377,"Custer County, South Dakota",46033,28
+2378,"Davison County, South Dakota",46035,9
+2379,"Day County, South Dakota",46037,26
+2380,"Deuel County, South Dakota",46039,9
+2381,"Dewey County, South Dakota",46041,28
+2382,"Douglas County, South Dakota",46043,9
+2383,"Edmunds County, South Dakota",46045,26
+2384,"Fall River County, South Dakota",46047,28
+2385,"Faulk County, South Dakota",46049,26
+2386,"Grant County, South Dakota",46051,26
+2387,"Gregory County, South Dakota",46053,9
+2388,"Haakon County, South Dakota",46055,9
+2389,"Hamlin County, South Dakota",46057,9
+2390,"Hand County, South Dakota",46059,26
+2391,"Hanson County, South Dakota",46061,9
+2392,"Harding County, South Dakota",46063,26
+2393,"Hughes County, South Dakota",46065,9
+2394,"Hutchinson County, South Dakota",46067,9
+2395,"Hyde County, South Dakota",46069,9
+2396,"Jackson County, South Dakota",46071,28
+2397,"Jerauld County, South Dakota",46073,9
+2398,"Jones County, South Dakota",46075,9
+2399,"Kingsbury County, South Dakota",46077,9
+2400,"Lake County, South Dakota",46079,9
+2401,"Lawrence County, South Dakota",46081,28
+2402,"Lincoln County, South Dakota",46083,9
+2403,"Lyman County, South Dakota",46085,9
+2404,"McCook County, South Dakota",46087,9
+2405,"McPherson County, South Dakota",46089,26
+2406,"Marshall County, South Dakota",46091,26
+2407,"Meade County, South Dakota",46093,28
+2408,"Mellette County, South Dakota",46095,9
+2409,"Miner County, South Dakota",46097,9
+2410,"Minnehaha County, South Dakota",46099,9
+2411,"Moody County, South Dakota",46101,9
+2412,"Pennington County, South Dakota",46103,28
+2413,"Perkins County, South Dakota",46105,26
+2414,"Potter County, South Dakota",46107,26
+2415,"Roberts County, South Dakota",46109,26
+2416,"Sanborn County, South Dakota",46111,9
+2417,"Shannon County, South Dakota",46113,28
+2418,"Spink County, South Dakota",46115,26
+2419,"Stanley County, South Dakota",46117,9
+2420,"Sully County, South Dakota",46119,9
+2421,"Todd County, South Dakota",46121,9
+2422,"Tripp County, South Dakota",46123,9
+2423,"Turner County, South Dakota",46125,9
+2424,"Union County, South Dakota",46127,9
+2425,"Walworth County, South Dakota",46129,26
+2426,"Yankton County, South Dakota",46135,9
+2427,"Ziebach County, South Dakota",46137,28
+2428,"Anderson County, Tennessee",47001,25
+2429,"Bedford County, Tennessee",47003,19
+2430,"Benton County, Tennessee",47005,19
+2431,"Bledsoe County, Tennessee",47007,2
+2432,"Blount County, Tennessee",47009,25
+2433,"Bradley County, Tennessee",47011,2
+2434,"Campbell County, Tennessee",47013,25
+2435,"Cannon County, Tennessee",47015,19
+2436,"Carroll County, Tennessee",47017,19
+2437,"Carter County, Tennessee",47019,25
+2438,"Cheatham County, Tennessee",47021,19
+2439,"Chester County, Tennessee",47023,19
+2440,"Claiborne County, Tennessee",47025,25
+2441,"Clay County, Tennessee",47027,19
+2442,"Cocke County, Tennessee",47029,25
+2443,"Coffee County, Tennessee",47031,19
+2444,"Crockett County, Tennessee",47033,19
+2445,"Cumberland County, Tennessee",47035,19
+2446,"Davidson County, Tennessee",47037,19
+2447,"Decatur County, Tennessee",47039,19
+2448,"DeKalb County, Tennessee",47041,19
+2449,"Dickson County, Tennessee",47043,19
+2450,"Dyer County, Tennessee",47045,19
+2451,"Fayette County, Tennessee",47047,19
+2452,"Fentress County, Tennessee",47049,19
+2453,"Franklin County, Tennessee",47051,19
+2454,"Gibson County, Tennessee",47053,19
+2455,"Giles County, Tennessee",47055,19
+2456,"Grainger County, Tennessee",47057,25
+2457,"Greene County, Tennessee",47059,25
+2458,"Grundy County, Tennessee",47061,2
+2459,"Hamblen County, Tennessee",47063,25
+2460,"Hamilton County, Tennessee",47065,2
+2461,"Hancock County, Tennessee",47067,25
+2462,"Hardeman County, Tennessee",47069,19
+2463,"Hardin County, Tennessee",47071,19
+2464,"Hawkins County, Tennessee",47073,25
+2465,"Haywood County, Tennessee",47075,19
+2466,"Henderson County, Tennessee",47077,19
+2467,"Henry County, Tennessee",47079,19
+2468,"Hickman County, Tennessee",47081,19
+2469,"Houston County, Tennessee",47083,19
+2470,"Humphreys County, Tennessee",47085,19
+2471,"Jackson County, Tennessee",47087,19
+2472,"Jefferson County, Tennessee",47089,25
+2473,"Johnson County, Tennessee",47091,25
+2474,"Knox County, Tennessee",47093,25
+2475,"Lake County, Tennessee",47095,19
+2476,"Lauderdale County, Tennessee",47097,19
+2477,"Lawrence County, Tennessee",47099,19
+2478,"Lewis County, Tennessee",47101,19
+2479,"Lincoln County, Tennessee",47103,19
+2480,"Loudon County, Tennessee",47105,25
+2481,"McMinn County, Tennessee",47107,25
+2482,"McNairy County, Tennessee",47109,19
+2483,"Macon County, Tennessee",47111,19
+2484,"Madison County, Tennessee",47113,19
+2485,"Marion County, Tennessee",47115,2
+2486,"Marshall County, Tennessee",47117,19
+2487,"Maury County, Tennessee",47119,19
+2488,"Meigs County, Tennessee",47121,25
+2489,"Monroe County, Tennessee",47123,25
+2490,"Montgomery County, Tennessee",47125,19
+2491,"Moore County, Tennessee",47127,19
+2492,"Morgan County, Tennessee",47129,25
+2493,"Obion County, Tennessee",47131,19
+2494,"Overton County, Tennessee",47133,19
+2495,"Perry County, Tennessee",47135,19
+2496,"Pickett County, Tennessee",47137,19
+2497,"Polk County, Tennessee",47139,2
+2498,"Putnam County, Tennessee",47141,19
+2499,"Rhea County, Tennessee",47143,2
+2500,"Roane County, Tennessee",47145,25
+2501,"Robertson County, Tennessee",47147,19
+2502,"Rutherford County, Tennessee",47149,19
+2503,"Scott County, Tennessee",47151,25
+2504,"Sequatchie County, Tennessee",47153,2
+2505,"Sevier County, Tennessee",47155,25
+2506,"Shelby County, Tennessee",47157,19
+2507,"Smith County, Tennessee",47159,19
+2508,"Stewart County, Tennessee",47161,19
+2509,"Sullivan County, Tennessee",47163,25
+2510,"Sumner County, Tennessee",47165,19
+2511,"Tipton County, Tennessee",47167,19
+2512,"Trousdale County, Tennessee",47169,19
+2513,"Unicoi County, Tennessee",47171,25
+2514,"Union County, Tennessee",47173,25
+2515,"Van Buren County, Tennessee",47175,19
+2516,"Warren County, Tennessee",47177,19
+2517,"Washington County, Tennessee",47179,25
+2518,"Wayne County, Tennessee",47181,19
+2519,"Weakley County, Tennessee",47183,19
+2520,"White County, Tennessee",47185,19
+2521,"Williamson County, Tennessee",47187,19
+2522,"Wilson County, Tennessee",47189,19
+2523,"Anderson County, Texas",48001,20
+2524,"Andrews County, Texas",48003,20
+2525,"Angelina County, Texas",48005,20
+2526,"Aransas County, Texas",48007,20
+2527,"Archer County, Texas",48009,20
+2528,"Armstrong County, Texas",48011,20
+2529,"Atascosa County, Texas",48013,20
+2530,"Austin County, Texas",48015,20
+2531,"Bailey County, Texas",48017,20
+2532,"Bandera County, Texas",48019,20
+2533,"Bastrop County, Texas",48021,20
+2534,"Baylor County, Texas",48023,20
+2535,"Bee County, Texas",48025,20
+2536,"Bell County, Texas",48027,20
+2537,"Bexar County, Texas",48029,20
+2538,"Blanco County, Texas",48031,20
+2539,"Borden County, Texas",48033,20
+2540,"Bosque County, Texas",48035,20
+2541,"Bowie County, Texas",48037,8
+2542,"Brazoria County, Texas",48039,20
+2543,"Brazos County, Texas",48041,20
+2544,"Brewster County, Texas",48043,20
+2545,"Briscoe County, Texas",48045,20
+2546,"Brooks County, Texas",48047,20
+2547,"Brown County, Texas",48049,20
+2548,"Burleson County, Texas",48051,20
+2549,"Burnet County, Texas",48053,20
+2550,"Caldwell County, Texas",48055,20
+2551,"Calhoun County, Texas",48057,20
+2552,"Callahan County, Texas",48059,20
+2553,"Cameron County, Texas",48061,20
+2554,"Camp County, Texas",48063,20
+2555,"Carson County, Texas",48065,20
+2556,"Cass County, Texas",48067,8
+2557,"Castro County, Texas",48069,20
+2558,"Chambers County, Texas",48071,20
+2559,"Cherokee County, Texas",48073,20
+2560,"Childress County, Texas",48075,20
+2561,"Clay County, Texas",48077,20
+2562,"Cochran County, Texas",48079,20
+2563,"Coke County, Texas",48081,20
+2564,"Coleman County, Texas",48083,20
+2565,"Collin County, Texas",48085,20
+2566,"Collingsworth County, Texas",48087,20
+2567,"Colorado County, Texas",48089,20
+2568,"Comal County, Texas",48091,20
+2569,"Comanche County, Texas",48093,20
+2570,"Concho County, Texas",48095,20
+2571,"Cooke County, Texas",48097,20
+2572,"Coryell County, Texas",48099,20
+2573,"Cottle County, Texas",48101,20
+2574,"Crane County, Texas",48103,20
+2575,"Crockett County, Texas",48105,20
+2576,"Crosby County, Texas",48107,20
+2577,"Culberson County, Texas",48109,20
+2578,"Dallam County, Texas",48111,20
+2579,"Dallas County, Texas",48113,20
+2580,"Dawson County, Texas",48115,20
+2581,"Deaf Smith County, Texas",48117,20
+2582,"Delta County, Texas",48119,20
+2583,"Denton County, Texas",48121,20
+2584,"DeWitt County, Texas",48123,20
+2585,"Dickens County, Texas",48125,20
+2586,"Dimmit County, Texas",48127,20
+2587,"Donley County, Texas",48129,20
+2588,"Duval County, Texas",48131,20
+2589,"Eastland County, Texas",48133,20
+2590,"Ector County, Texas",48135,20
+2591,"Edwards County, Texas",48137,20
+2592,"Ellis County, Texas",48139,20
+2593,"El Paso County, Texas",48141,0
+2594,"Erath County, Texas",48143,20
+2595,"Falls County, Texas",48145,20
+2596,"Fannin County, Texas",48147,20
+2597,"Fayette County, Texas",48149,20
+2598,"Fisher County, Texas",48151,20
+2599,"Floyd County, Texas",48153,20
+2600,"Foard County, Texas",48155,20
+2601,"Fort Bend County, Texas",48157,20
+2602,"Franklin County, Texas",48159,20
+2603,"Freestone County, Texas",48161,20
+2604,"Frio County, Texas",48163,20
+2605,"Gaines County, Texas",48165,20
+2606,"Galveston County, Texas",48167,20
+2607,"Garza County, Texas",48169,20
+2608,"Gillespie County, Texas",48171,20
+2609,"Glasscock County, Texas",48173,20
+2610,"Goliad County, Texas",48175,20
+2611,"Gonzales County, Texas",48177,20
+2612,"Gray County, Texas",48179,20
+2613,"Grayson County, Texas",48181,20
+2614,"Gregg County, Texas",48183,20
+2615,"Grimes County, Texas",48185,20
+2616,"Guadalupe County, Texas",48187,20
+2617,"Hale County, Texas",48189,20
+2618,"Hall County, Texas",48191,20
+2619,"Hamilton County, Texas",48193,20
+2620,"Hansford County, Texas",48195,20
+2621,"Hardeman County, Texas",48197,20
+2622,"Hardin County, Texas",48199,20
+2623,"Harris County, Texas",48201,20
+2624,"Harrison County, Texas",48203,20
+2625,"Hartley County, Texas",48205,20
+2626,"Haskell County, Texas",48207,20
+2627,"Hays County, Texas",48209,20
+2628,"Hemphill County, Texas",48211,20
+2629,"Henderson County, Texas",48213,20
+2630,"Hidalgo County, Texas",48215,20
+2631,"Hill County, Texas",48217,20
+2632,"Hockley County, Texas",48219,20
+2633,"Hood County, Texas",48221,20
+2634,"Hopkins County, Texas",48223,20
+2635,"Houston County, Texas",48225,20
+2636,"Howard County, Texas",48227,20
+2637,"Hudspeth County, Texas",48229,0
+2638,"Hunt County, Texas",48231,20
+2639,"Hutchinson County, Texas",48233,20
+2640,"Irion County, Texas",48235,20
+2641,"Jack County, Texas",48237,20
+2642,"Jackson County, Texas",48239,20
+2643,"Jasper County, Texas",48241,20
+2644,"Jeff Davis County, Texas",48243,20
+2645,"Jefferson County, Texas",48245,20
+2646,"Jim Hogg County, Texas",48247,20
+2647,"Jim Wells County, Texas",48249,20
+2648,"Johnson County, Texas",48251,20
+2649,"Jones County, Texas",48253,20
+2650,"Karnes County, Texas",48255,20
+2651,"Kaufman County, Texas",48257,20
+2652,"Kendall County, Texas",48259,20
+2653,"Kenedy County, Texas",48261,20
+2654,"Kent County, Texas",48263,20
+2655,"Kerr County, Texas",48265,20
+2656,"Kimble County, Texas",48267,20
+2657,"King County, Texas",48269,20
+2658,"Kinney County, Texas",48271,20
+2659,"Kleberg County, Texas",48273,20
+2660,"Knox County, Texas",48275,20
+2661,"Lamar County, Texas",48277,20
+2662,"Lamb County, Texas",48279,20
+2663,"Lampasas County, Texas",48281,20
+2664,"La Salle County, Texas",48283,20
+2665,"Lavaca County, Texas",48285,20
+2666,"Lee County, Texas",48287,20
+2667,"Leon County, Texas",48289,20
+2668,"Liberty County, Texas",48291,20
+2669,"Limestone County, Texas",48293,20
+2670,"Lipscomb County, Texas",48295,20
+2671,"Live Oak County, Texas",48297,20
+2672,"Llano County, Texas",48299,20
+2673,"Loving County, Texas",48301,20
+2674,"Lubbock County, Texas",48303,20
+2675,"Lynn County, Texas",48305,20
+2676,"McCulloch County, Texas",48307,20
+2677,"McLennan County, Texas",48309,20
+2678,"McMullen County, Texas",48311,20
+2679,"Madison County, Texas",48313,20
+2680,"Marion County, Texas",48315,20
+2681,"Martin County, Texas",48317,20
+2682,"Mason County, Texas",48319,20
+2683,"Matagorda County, Texas",48321,20
+2684,"Maverick County, Texas",48323,20
+2685,"Medina County, Texas",48325,20
+2686,"Menard County, Texas",48327,20
+2687,"Midland County, Texas",48329,20
+2688,"Milam County, Texas",48331,20
+2689,"Mills County, Texas",48333,20
+2690,"Mitchell County, Texas",48335,20
+2691,"Montague County, Texas",48337,20
+2692,"Montgomery County, Texas",48339,20
+2693,"Moore County, Texas",48341,20
+2694,"Morris County, Texas",48343,20
+2695,"Motley County, Texas",48345,20
+2696,"Nacogdoches County, Texas",48347,20
+2697,"Navarro County, Texas",48349,20
+2698,"Newton County, Texas",48351,20
+2699,"Nolan County, Texas",48353,20
+2700,"Nueces County, Texas",48355,20
+2701,"Ochiltree County, Texas",48357,20
+2702,"Oldham County, Texas",48359,20
+2703,"Orange County, Texas",48361,20
+2704,"Palo Pinto County, Texas",48363,20
+2705,"Panola County, Texas",48365,20
+2706,"Parker County, Texas",48367,20
+2707,"Parmer County, Texas",48369,20
+2708,"Pecos County, Texas",48371,20
+2709,"Polk County, Texas",48373,20
+2710,"Potter County, Texas",48375,20
+2711,"Presidio County, Texas",48377,20
+2712,"Rains County, Texas",48379,20
+2713,"Randall County, Texas",48381,20
+2714,"Reagan County, Texas",48383,20
+2715,"Real County, Texas",48385,20
+2716,"Red River County, Texas",48387,20
+2717,"Reeves County, Texas",48389,20
+2718,"Refugio County, Texas",48391,20
+2719,"Roberts County, Texas",48393,20
+2720,"Robertson County, Texas",48395,20
+2721,"Rockwall County, Texas",48397,20
+2722,"Runnels County, Texas",48399,20
+2723,"Rusk County, Texas",48401,20
+2724,"Sabine County, Texas",48403,20
+2725,"San Augustine County, Texas",48405,20
+2726,"San Jacinto County, Texas",48407,20
+2727,"San Patricio County, Texas",48409,20
+2728,"San Saba County, Texas",48411,20
+2729,"Schleicher County, Texas",48413,20
+2730,"Scurry County, Texas",48415,20
+2731,"Shackelford County, Texas",48417,20
+2732,"Shelby County, Texas",48419,20
+2733,"Sherman County, Texas",48421,20
+2734,"Smith County, Texas",48423,20
+2735,"Somervell County, Texas",48425,20
+2736,"Starr County, Texas",48427,20
+2737,"Stephens County, Texas",48429,20
+2738,"Sterling County, Texas",48431,20
+2739,"Stonewall County, Texas",48433,20
+2740,"Sutton County, Texas",48435,20
+2741,"Swisher County, Texas",48437,20
+2742,"Tarrant County, Texas",48439,20
+2743,"Taylor County, Texas",48441,20
+2744,"Terrell County, Texas",48443,20
+2745,"Terry County, Texas",48445,20
+2746,"Throckmorton County, Texas",48447,20
+2747,"Titus County, Texas",48449,20
+2748,"Tom Green County, Texas",48451,20
+2749,"Travis County, Texas",48453,20
+2750,"Trinity County, Texas",48455,20
+2751,"Tyler County, Texas",48457,20
+2752,"Upshur County, Texas",48459,20
+2753,"Upton County, Texas",48461,20
+2754,"Uvalde County, Texas",48463,20
+2755,"Val Verde County, Texas",48465,20
+2756,"Van Zandt County, Texas",48467,20
+2757,"Victoria County, Texas",48469,20
+2758,"Walker County, Texas",48471,20
+2759,"Waller County, Texas",48473,20
+2760,"Ward County, Texas",48475,20
+2761,"Washington County, Texas",48477,20
+2762,"Webb County, Texas",48479,20
+2763,"Wharton County, Texas",48481,20
+2764,"Wheeler County, Texas",48483,20
+2765,"Wichita County, Texas",48485,20
+2766,"Wilbarger County, Texas",48487,20
+2767,"Willacy County, Texas",48489,20
+2768,"Williamson County, Texas",48491,20
+2769,"Wilson County, Texas",48493,20
+2770,"Winkler County, Texas",48495,20
+2771,"Wise County, Texas",48497,20
+2772,"Wood County, Texas",48499,20
+2773,"Yoakum County, Texas",48501,20
+2774,"Young County, Texas",48503,20
+2775,"Zapata County, Texas",48505,20
+2776,"Zavala County, Texas",48507,20
+2777,"Beaver County, Utah",49001,0
+2778,"Box Elder County, Utah",49003,21
+2779,"Cache County, Utah",49005,21
+2780,"Carbon County, Utah",49007,21
+2781,"Daggett County, Utah",49009,21
+2782,"Davis County, Utah",49011,21
+2783,"Duchesne County, Utah",49013,21
+2784,"Emery County, Utah",49015,21
+2785,"Garfield County, Utah",49017,0
+2786,"Grand County, Utah",49019,0
+2787,"Iron County, Utah",49021,0
+2788,"Juab County, Utah",49023,21
+2789,"Kane County, Utah",49025,0
+2790,"Millard County, Utah",49027,21
+2791,"Morgan County, Utah",49029,21
+2792,"Piute County, Utah",49031,21
+2793,"Rich County, Utah",49033,21
+2794,"Salt Lake County, Utah",49035,21
+2795,"San Juan County, Utah",49037,0
+2796,"Sanpete County, Utah",49039,21
+2797,"Sevier County, Utah",49041,21
+2798,"Summit County, Utah",49043,21
+2799,"Tooele County, Utah",49045,21
+2800,"Uintah County, Utah",49047,21
+2801,"Utah County, Utah",49049,21
+2802,"Wasatch County, Utah",49051,21
+2803,"Washington County, Utah",49053,0
+2804,"Wayne County, Utah",49055,21
+2805,"Weber County, Utah",49057,21
+2806,"Addison County, Vermont",50001,11
+2807,"Bennington County, Vermont",50003,13
+2808,"Caledonia County, Vermont",50005,11
+2809,"Chittenden County, Vermont",50007,11
+2810,"Essex County, Vermont",50009,11
+2811,"Franklin County, Vermont",50011,11
+2812,"Grand Isle County, Vermont",50013,11
+2813,"Lamoille County, Vermont",50015,11
+2814,"Orange County, Vermont",50017,11
+2815,"Orleans County, Vermont",50019,11
+2816,"Rutland County, Vermont",50021,13
+2817,"Washington County, Vermont",50023,11
+2818,"Windham County, Vermont",50025,11
+2819,"Windsor County, Vermont",50027,11
+2820,"Accomack County, Virginia",51001,15
+2821,"Albemarle County, Virginia",51003,22
+2822,"Alleghany County, Virginia",51005,23
+2823,"Amelia County, Virginia",51007,22
+2824,"Amherst County, Virginia",51009,23
+2825,"Appomattox County, Virginia",51011,23
+2826,"Arlington County, Virginia",51013,17
+2827,"Augusta County, Virginia",51015,23
+2828,"Bath County, Virginia",51017,23
+2829,"Bedford County, Virginia",51019,23
+2830,"Bland County, Virginia",51021,23
+2831,"Botetourt County, Virginia",51023,23
+2832,"Brunswick County, Virginia",51025,22
+2833,"Buchanan County, Virginia",51027,25
+2834,"Buckingham County, Virginia",51029,22
+2835,"Campbell County, Virginia",51031,23
+2836,"Caroline County, Virginia",51033,17
+2837,"Carroll County, Virginia",51035,23
+2838,"Charles City County, Virginia",51036,22
+2839,"Charlotte County, Virginia",51037,22
+2840,"Chesterfield County, Virginia",51041,22
+2841,"Clarke County, Virginia",51043,17
+2842,"Craig County, Virginia",51045,23
+2843,"Culpeper County, Virginia",51047,17
+2844,"Cumberland County, Virginia",51049,22
+2845,"Dickenson County, Virginia",51051,25
+2846,"Dinwiddie County, Virginia",51053,22
+2847,"Essex County, Virginia",51057,22
+2848,"Fairfax County, Virginia",51059,17
+2849,"Fauquier County, Virginia",51061,17
+2850,"Floyd County, Virginia",51063,23
+2851,"Fluvanna County, Virginia",51065,22
+2852,"Franklin County, Virginia",51067,23
+2853,"Frederick County, Virginia",51069,17
+2854,"Giles County, Virginia",51071,23
+2855,"Gloucester County, Virginia",51073,22
+2856,"Goochland County, Virginia",51075,22
+2857,"Grayson County, Virginia",51077,23
+2858,"Greene County, Virginia",51079,22
+2859,"Greensville County, Virginia",51081,22
+2860,"Halifax County, Virginia",51083,18
+2861,"Hanover County, Virginia",51085,22
+2862,"Henrico County, Virginia",51087,22
+2863,"Henry County, Virginia",51089,18
+2864,"Highland County, Virginia",51091,23
+2865,"Isle of Wight County, Virginia",51093,22
+2866,"James City County, Virginia",51095,22
+2867,"King and Queen County, Virginia",51097,22
+2868,"King George County, Virginia",51099,17
+2869,"King William County, Virginia",51101,22
+2870,"Lancaster County, Virginia",51103,22
+2871,"Lee County, Virginia",51105,25
+2872,"Loudoun County, Virginia",51107,17
+2873,"Louisa County, Virginia",51109,22
+2874,"Lunenburg County, Virginia",51111,22
+2875,"Madison County, Virginia",51113,22
+2876,"Mathews County, Virginia",51115,22
+2877,"Mecklenburg County, Virginia",51117,22
+2878,"Middlesex County, Virginia",51119,22
+2879,"Montgomery County, Virginia",51121,23
+2880,"Nelson County, Virginia",51125,22
+2881,"New Kent County, Virginia",51127,22
+2882,"Northampton County, Virginia",51131,15
+2883,"Northumberland County, Virginia",51133,22
+2884,"Nottoway County, Virginia",51135,22
+2885,"Orange County, Virginia",51137,17
+2886,"Page County, Virginia",51139,23
+2887,"Patrick County, Virginia",51141,18
+2888,"Pittsylvania County, Virginia",51143,18
+2889,"Powhatan County, Virginia",51145,22
+2890,"Prince Edward County, Virginia",51147,22
+2891,"Prince George County, Virginia",51149,22
+2892,"Prince William County, Virginia",51153,17
+2893,"Pulaski County, Virginia",51155,23
+2894,"Rappahannock County, Virginia",51157,17
+2895,"Richmond County, Virginia",51159,22
+2896,"Roanoke County, Virginia",51161,23
+2897,"Rockbridge County, Virginia",51163,23
+2898,"Rockingham County, Virginia",51165,23
+2899,"Russell County, Virginia",51167,25
+2900,"Scott County, Virginia",51169,25
+2901,"Shenandoah County, Virginia",51171,17
+2902,"Smyth County, Virginia",51173,25
+2903,"Southampton County, Virginia",51175,22
+2904,"Spotsylvania County, Virginia",51177,17
+2905,"Stafford County, Virginia",51179,17
+2906,"Surry County, Virginia",51181,22
+2907,"Sussex County, Virginia",51183,22
+2908,"Tazewell County, Virginia",51185,25
+2909,"Warren County, Virginia",51187,17
+2910,"Washington County, Virginia",51191,25
+2911,"Westmoreland County, Virginia",51193,22
+2912,"Wise County, Virginia",51195,25
+2913,"Wythe County, Virginia",51197,23
+2914,"York County, Virginia",51199,22
+2915,"Alexandria city, Virginia",51510,17
+2916,"Bedford city, Virginia",51515,23
+2917,"Bristol city, Virginia",51520,25
+2918,"Buena Vista city, Virginia",51530,23
+2919,"Charlottesville city, Virginia",51540,22
+2920,"Chesapeake city, Virginia",51550,22
+2921,"Colonial Heights city, Virginia",51570,22
+2922,"Covington city, Virginia",51580,23
+2923,"Danville city, Virginia",51590,18
+2924,"Emporia city, Virginia",51595,22
+2925,"Fairfax city, Virginia",51600,17
+2926,"Falls Church city, Virginia",51610,17
+2927,"Franklin city, Virginia",51620,22
+2928,"Fredericksburg city, Virginia",51630,17
+2929,"Galax city, Virginia",51640,23
+2930,"Hampton city, Virginia",51650,22
+2931,"Harrisonburg city, Virginia",51660,23
+2932,"Hopewell city, Virginia",51670,22
+2933,"Lexington city, Virginia",51678,23
+2934,"Lynchburg city, Virginia",51680,23
+2935,"Manassas city, Virginia",51683,17
+2936,"Manassas Park city, Virginia",51685,17
+2937,"Martinsville city, Virginia",51690,18
+2938,"Newport News city, Virginia",51700,22
+2939,"Norfolk city, Virginia",51710,22
+2940,"Norton city, Virginia",51720,25
+2941,"Petersburg city, Virginia",51730,22
+2942,"Poquoson city, Virginia",51735,22
+2943,"Portsmouth city, Virginia",51740,22
+2944,"Radford city, Virginia",51750,23
+2945,"Richmond city, Virginia",51760,22
+2946,"Roanoke city, Virginia",51770,23
+2947,"Salem city, Virginia",51775,23
+2948,"Staunton city, Virginia",51790,23
+2949,"Suffolk city, Virginia",51800,22
+2950,"Virginia Beach city, Virginia",51810,22
+2951,"Waynesboro city, Virginia",51820,23
+2952,"Williamsburg city, Virginia",51830,22
+2953,"Winchester city, Virginia",51840,17
+2954,"Adams County, Washington",53001,24
+2955,"Asotin County, Washington",53003,24
+2956,"Benton County, Washington",53005,24
+2957,"Chelan County, Washington",53007,24
+2958,"Clallam County, Washington",53009,24
+2959,"Clark County, Washington",53011,24
+2960,"Columbia County, Washington",53013,24
+2961,"Cowlitz County, Washington",53015,24
+2962,"Douglas County, Washington",53017,24
+2963,"Ferry County, Washington",53019,24
+2964,"Franklin County, Washington",53021,24
+2965,"Garfield County, Washington",53023,24
+2966,"Grant County, Washington",53025,24
+2967,"Grays Harbor County, Washington",53027,24
+2968,"Island County, Washington",53029,24
+2969,"Jefferson County, Washington",53031,24
+2970,"King County, Washington",53033,24
+2971,"Kitsap County, Washington",53035,24
+2972,"Kittitas County, Washington",53037,24
+2973,"Klickitat County, Washington",53039,24
+2974,"Lewis County, Washington",53041,24
+2975,"Lincoln County, Washington",53043,24
+2976,"Mason County, Washington",53045,24
+2977,"Okanogan County, Washington",53047,24
+2978,"Pacific County, Washington",53049,24
+2979,"Pend Oreille County, Washington",53051,24
+2980,"Pierce County, Washington",53053,24
+2981,"San Juan County, Washington",53055,24
+2982,"Skagit County, Washington",53057,24
+2983,"Skamania County, Washington",53059,24
+2984,"Snohomish County, Washington",53061,24
+2985,"Spokane County, Washington",53063,24
+2986,"Stevens County, Washington",53065,24
+2987,"Thurston County, Washington",53067,24
+2988,"Wahkiakum County, Washington",53069,24
+2989,"Walla Walla County, Washington",53071,24
+2990,"Whatcom County, Washington",53073,24
+2991,"Whitman County, Washington",53075,24
+2992,"Yakima County, Washington",53077,24
+2993,"Barbour County, West Virginia",54001,16
+2994,"Berkeley County, West Virginia",54003,17
+2995,"Boone County, West Virginia",54005,25
+2996,"Braxton County, West Virginia",54007,16
+2997,"Brooke County, West Virginia",54009,16
+2998,"Cabell County, West Virginia",54011,25
+2999,"Calhoun County, West Virginia",54013,25
+3000,"Clay County, West Virginia",54015,25
+3001,"Doddridge County, West Virginia",54017,16
+3002,"Fayette County, West Virginia",54019,25
+3003,"Gilmer County, West Virginia",54021,16
+3004,"Grant County, West Virginia",54023,17
+3005,"Greenbrier County, West Virginia",54025,25
+3006,"Hampshire County, West Virginia",54027,17
+3007,"Hancock County, West Virginia",54029,16
+3008,"Hardy County, West Virginia",54031,17
+3009,"Harrison County, West Virginia",54033,16
+3010,"Jackson County, West Virginia",54035,25
+3011,"Jefferson County, West Virginia",54037,17
+3012,"Kanawha County, West Virginia",54039,25
+3013,"Lewis County, West Virginia",54041,16
+3014,"Lincoln County, West Virginia",54043,25
+3015,"Logan County, West Virginia",54045,25
+3016,"McDowell County, West Virginia",54047,25
+3017,"Marion County, West Virginia",54049,16
+3018,"Marshall County, West Virginia",54051,16
+3019,"Mason County, West Virginia",54053,25
+3020,"Mercer County, West Virginia",54055,25
+3021,"Mineral County, West Virginia",54057,17
+3022,"Mingo County, West Virginia",54059,25
+3023,"Monongalia County, West Virginia",54061,16
+3024,"Monroe County, West Virginia",54063,25
+3025,"Morgan County, West Virginia",54065,17
+3026,"Nicholas County, West Virginia",54067,25
+3027,"Ohio County, West Virginia",54069,16
+3028,"Pendleton County, West Virginia",54071,23
+3029,"Pleasants County, West Virginia",54073,25
+3030,"Pocahontas County, West Virginia",54075,25
+3031,"Preston County, West Virginia",54077,16
+3032,"Putnam County, West Virginia",54079,25
+3033,"Raleigh County, West Virginia",54081,25
+3034,"Randolph County, West Virginia",54083,16
+3035,"Ritchie County, West Virginia",54085,25
+3036,"Roane County, West Virginia",54087,25
+3037,"Summers County, West Virginia",54089,25
+3038,"Taylor County, West Virginia",54091,16
+3039,"Tucker County, West Virginia",54093,16
+3040,"Tyler County, West Virginia",54095,16
+3041,"Upshur County, West Virginia",54097,16
+3042,"Wayne County, West Virginia",54099,25
+3043,"Webster County, West Virginia",54101,25
+3044,"Wetzel County, West Virginia",54103,16
+3045,"Wirt County, West Virginia",54105,25
+3046,"Wood County, West Virginia",54107,25
+3047,"Wyoming County, West Virginia",54109,25
+3048,"Adams County, Wisconsin",55001,27
+3049,"Ashland County, Wisconsin",55003,26
+3050,"Barron County, Wisconsin",55005,26
+3051,"Bayfield County, Wisconsin",55007,26
+3052,"Brown County, Wisconsin",55009,27
+3053,"Buffalo County, Wisconsin",55011,26
+3054,"Burnett County, Wisconsin",55013,26
+3055,"Calumet County, Wisconsin",55015,27
+3056,"Chippewa County, Wisconsin",55017,26
+3057,"Clark County, Wisconsin",55019,27
+3058,"Columbia County, Wisconsin",55021,27
+3059,"Crawford County, Wisconsin",55023,27
+3060,"Dane County, Wisconsin",55025,27
+3061,"Dodge County, Wisconsin",55027,27
+3062,"Door County, Wisconsin",55029,27
+3063,"Douglas County, Wisconsin",55031,26
+3064,"Dunn County, Wisconsin",55033,26
+3065,"Eau Claire County, Wisconsin",55035,26
+3066,"Florence County, Wisconsin",55037,27
+3067,"Fond du Lac County, Wisconsin",55039,27
+3068,"Forest County, Wisconsin",55041,27
+3069,"Grant County, Wisconsin",55043,27
+3070,"Green County, Wisconsin",55045,27
+3071,"Green Lake County, Wisconsin",55047,27
+3072,"Iowa County, Wisconsin",55049,27
+3073,"Iron County, Wisconsin",55051,27
+3074,"Jackson County, Wisconsin",55053,26
+3075,"Jefferson County, Wisconsin",55055,27
+3076,"Juneau County, Wisconsin",55057,27
+3077,"Kenosha County, Wisconsin",55059,27
+3078,"Kewaunee County, Wisconsin",55061,27
+3079,"La Crosse County, Wisconsin",55063,26
+3080,"Lafayette County, Wisconsin",55065,27
+3081,"Langlade County, Wisconsin",55067,27
+3082,"Lincoln County, Wisconsin",55069,27
+3083,"Manitowoc County, Wisconsin",55071,27
+3084,"Marathon County, Wisconsin",55073,27
+3085,"Marinette County, Wisconsin",55075,27
+3086,"Marquette County, Wisconsin",55077,27
+3087,"Menominee County, Wisconsin",55078,27
+3088,"Milwaukee County, Wisconsin",55079,27
+3089,"Monroe County, Wisconsin",55081,26
+3090,"Oconto County, Wisconsin",55083,27
+3091,"Oneida County, Wisconsin",55085,27
+3092,"Outagamie County, Wisconsin",55087,27
+3093,"Ozaukee County, Wisconsin",55089,27
+3094,"Pepin County, Wisconsin",55091,26
+3095,"Pierce County, Wisconsin",55093,26
+3096,"Polk County, Wisconsin",55095,26
+3097,"Portage County, Wisconsin",55097,27
+3098,"Price County, Wisconsin",55099,26
+3099,"Racine County, Wisconsin",55101,27
+3100,"Richland County, Wisconsin",55103,27
+3101,"Rock County, Wisconsin",55105,27
+3102,"Rusk County, Wisconsin",55107,26
+3103,"St. Croix County, Wisconsin",55109,26
+3104,"Sauk County, Wisconsin",55111,27
+3105,"Sawyer County, Wisconsin",55113,26
+3106,"Shawano County, Wisconsin",55115,27
+3107,"Sheboygan County, Wisconsin",55117,27
+3108,"Taylor County, Wisconsin",55119,27
+3109,"Trempealeau County, Wisconsin",55121,26
+3110,"Vernon County, Wisconsin",55123,26
+3111,"Vilas County, Wisconsin",55125,27
+3112,"Walworth County, Wisconsin",55127,27
+3113,"Washburn County, Wisconsin",55129,26
+3114,"Washington County, Wisconsin",55131,27
+3115,"Waukesha County, Wisconsin",55133,27
+3116,"Waupaca County, Wisconsin",55135,27
+3117,"Waushara County, Wisconsin",55137,27
+3118,"Winnebago County, Wisconsin",55139,27
+3119,"Wood County, Wisconsin",55141,27
+3120,"Albany County, Wyoming",56001,28
+3121,"Big Horn County, Wyoming",56003,21
+3122,"Campbell County, Wyoming",56005,28
+3123,"Carbon County, Wyoming",56007,28
+3124,"Converse County, Wyoming",56009,28
+3125,"Crook County, Wyoming",56011,28
+3126,"Fremont County, Wyoming",56013,28
+3127,"Goshen County, Wyoming",56015,28
+3128,"Hot Springs County, Wyoming",56017,21
+3129,"Johnson County, Wyoming",56019,21
+3130,"Laramie County, Wyoming",56021,28
+3131,"Lincoln County, Wyoming",56023,21
+3132,"Natrona County, Wyoming",56025,28
+3133,"Niobrara County, Wyoming",56027,28
+3134,"Park County, Wyoming",56029,21
+3135,"Platte County, Wyoming",56031,28
+3136,"Sheridan County, Wyoming",56033,21
+3137,"Sublette County, Wyoming",56035,21
+3138,"Sweetwater County, Wyoming",56037,28
+3139,"Teton County, Wyoming",56039,21
+3140,"Uinta County, Wyoming",56041,21
+3141,"Washakie County, Wyoming",56043,21
+3142,"Weston County, Wyoming",56045,28
+3143,"Adjuntas Municipio, Puerto Rico",72001,29
+3144,"Aguada Municipio, Puerto Rico",72003,29
+3145,"Aguadilla Municipio, Puerto Rico",72005,29
+3146,"Aguas Buenas Municipio, Puerto Rico",72007,29
+3147,"Aibonito Municipio, Puerto Rico",72009,29
+3148,"AÃ±asco Municipio, Puerto Rico",72011,29
+3149,"Arecibo Municipio, Puerto Rico",72013,29
+3150,"Arroyo Municipio, Puerto Rico",72015,29
+3151,"Barceloneta Municipio, Puerto Rico",72017,29
+3152,"Barranquitas Municipio, Puerto Rico",72019,29
+3153,"BayamÃ³n Municipio, Puerto Rico",72021,29
+3154,"Cabo Rojo Municipio, Puerto Rico",72023,29
+3155,"Caguas Municipio, Puerto Rico",72025,29
+3156,"Camuy Municipio, Puerto Rico",72027,29
+3157,"CanÃ³vanas Municipio, Puerto Rico",72029,29
+3158,"Carolina Municipio, Puerto Rico",72031,29
+3159,"CataÃ±o Municipio, Puerto Rico",72033,29
+3160,"Cayey Municipio, Puerto Rico",72035,29
+3161,"Ceiba Municipio, Puerto Rico",72037,29
+3162,"Ciales Municipio, Puerto Rico",72039,29
+3163,"Cidra Municipio, Puerto Rico",72041,29
+3164,"Coamo Municipio, Puerto Rico",72043,29
+3165,"ComerÃ­o Municipio, Puerto Rico",72045,29
+3166,"Corozal Municipio, Puerto Rico",72047,29
+3167,"Culebra Municipio, Puerto Rico",72049,29
+3168,"Dorado Municipio, Puerto Rico",72051,29
+3169,"Fajardo Municipio, Puerto Rico",72053,29
+3170,"Florida Municipio, Puerto Rico",72054,29
+3171,"GuÃ¡nica Municipio, Puerto Rico",72055,29
+3172,"Guayama Municipio, Puerto Rico",72057,29
+3173,"Guayanilla Municipio, Puerto Rico",72059,29
+3174,"Guaynabo Municipio, Puerto Rico",72061,29
+3175,"Gurabo Municipio, Puerto Rico",72063,29
+3176,"Hatillo Municipio, Puerto Rico",72065,29
+3177,"Hormigueros Municipio, Puerto Rico",72067,29
+3178,"Humacao Municipio, Puerto Rico",72069,29
+3179,"Isabela Municipio, Puerto Rico",72071,29
+3180,"Jayuya Municipio, Puerto Rico",72073,29
+3181,"Juana DÃ­az Municipio, Puerto Rico",72075,29
+3182,"Juncos Municipio, Puerto Rico",72077,29
+3183,"Lajas Municipio, Puerto Rico",72079,29
+3184,"Lares Municipio, Puerto Rico",72081,29
+3185,"Las MarÃ­as Municipio, Puerto Rico",72083,29
+3186,"Las Piedras Municipio, Puerto Rico",72085,29
+3187,"LoÃ­za Municipio, Puerto Rico",72087,29
+3188,"Luquillo Municipio, Puerto Rico",72089,29
+3189,"ManatÃ­ Municipio, Puerto Rico",72091,29
+3190,"Maricao Municipio, Puerto Rico",72093,29
+3191,"Maunabo Municipio, Puerto Rico",72095,29
+3192,"MayagÃ¼ez Municipio, Puerto Rico",72097,29
+3193,"Moca Municipio, Puerto Rico",72099,29
+3194,"Morovis Municipio, Puerto Rico",72101,29
+3195,"Naguabo Municipio, Puerto Rico",72103,29
+3196,"Naranjito Municipio, Puerto Rico",72105,29
+3197,"Orocovis Municipio, Puerto Rico",72107,29
+3198,"Patillas Municipio, Puerto Rico",72109,29
+3199,"PeÃ±uelas Municipio, Puerto Rico",72111,29
+3200,"Ponce Municipio, Puerto Rico",72113,29
+3201,"Quebradillas Municipio, Puerto Rico",72115,29
+3202,"RincÃ³n Municipio, Puerto Rico",72117,29
+3203,"RÃ­o Grande Municipio, Puerto Rico",72119,29
+3204,"Sabana Grande Municipio, Puerto Rico",72121,29
+3205,"Salinas Municipio, Puerto Rico",72123,29
+3206,"San GermÃ¡n Municipio, Puerto Rico",72125,29
+3207,"San Juan Municipio, Puerto Rico",72127,29
+3208,"San Lorenzo Municipio, Puerto Rico",72129,29
+3209,"San SebastiÃ¡n Municipio, Puerto Rico",72131,29
+3210,"Santa Isabel Municipio, Puerto Rico",72133,29
+3211,"Toa Alta Municipio, Puerto Rico",72135,29
+3212,"Toa Baja Municipio, Puerto Rico",72137,29
+3213,"Trujillo Alto Municipio, Puerto Rico",72139,29
+3214,"Utuado Municipio, Puerto Rico",72141,29
+3215,"Vega Alta Municipio, Puerto Rico",72143,29
+3216,"Vega Baja Municipio, Puerto Rico",72145,29
+3217,"Vieques Municipio, Puerto Rico",72147,29
+3218,"Villalba Municipio, Puerto Rico",72149,29
+3219,"Yabucoa Municipio, Puerto Rico",72151,29
+3220,"Yauco Municipio, Puerto Rico",72153,29
