@@ -23,7 +23,7 @@ I used Gephi to analyze the graph and discover the clusters.  I used the modular
 This resulted in 71 communities being discovered.
 ![71 Communities](U.S. Labor Market.png)
 
-These results were quickly examined in [R](https://raw.githubusercontent.com/mikeasilva/us-labor-market-network/master/Maps.Rmd) and for the most part I am happy with the findings.
+These results were quickly examined in [R](https://raw.githubusercontent.com/mikeasilva/us-labor-market-network/master/Maps.Rmd) and for the most part I am happy with the findings.  *Note: In order to reproduce these results you must download the [us.geojson](https://raw.githubusercontent.com/hrbrmstr/rd3albers/master/data/us.geojson) file.*
 
 ![Modularity Map](gephi-modularity-class-map.png)
 
