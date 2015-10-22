@@ -55,11 +55,11 @@ The individual models should print out the following scores:
 +===============+================+
 | Model Name    | Model Score    |
 +===============+================+
-| Random Forest | 0.884810126582 |
-| Extra Trees   | 0.849367088608 |
-| SVM           | 0.855696202532 |
-| Bagging       | 0.905063291139 |
-| Decision Tree | 0.870886075949 |
+| Random Forest | 0.907894736842 |
+| Extra Trees   | 0.890789473684 |
+| SVM           | 0.890789473684 |
+| Bagging       | 0.892105263158 |
+| Decision Tree | 0.889473684211 |
 +===============+================+
 """
 #  Model Number 1 - Random Forest
@@ -156,6 +156,7 @@ names.Geography = names.Geography.str.replace(' city,', ',')
 names.Geography = names.Geography.str.replace(' urban county,', ',')
 names.Geography = names.Geography.str.replace(' zona urbana,', ',')
 names.Geography = names.Geography.str.replace(' municipality,', ',')
+names.Geography = names.Geography.str.replace(' city and borough,', ',')
 names = names.rename(columns={'Geography':'Area Name'})
 
 # Merge in the named region into the data frame

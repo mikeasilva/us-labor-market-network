@@ -1,0 +1,67 @@
+---
+title: "U.S. Labor Market Model Map"
+author: "Mike Silva"
+date: "October 21, 2015"
+output: html_document
+---
+
+```{r}
+library(maptools)
+library(mapproj)
+library(rgeos)
+library(rgdal)
+library(RColorBrewer)
+library(ggplot2)
+library(dplyr)
+
+# https://www.census.gov/geo/maps-data/data/cbf/cbf_counties.html
+# read U.S. counties moderately-simplified GeoJSON file
+us <- readOGR(dsn="us.geojson", layer="OGRGeoJSON")
+
+# convert it to Albers equal area
+us_aea <- spTransform(us, CRS("+proj=laea +lat_0=45 +lon_0=-100 +x_0=0 +y_0=0 +a=6370997 +b=6370997 +units=m +no_defs"))
+us_aea@data$id <- rownames(us_aea@data)
+
+# extract, then rotate, shrink & move alaska (and reset projection)
+# need to use state IDs via # https://www.census.gov/geo/reference/ansi_statetables.html
+alaska <- us_aea[us_aea$STATEFP=="02",]
+alaska <- elide(alaska, rotate=-50)
+alaska <- elide(alaska, scale=max(apply(bbox(alaska), 1, diff)) / 2.3)
+alaska <- elide(alaska, shift=c(-2100000, -2500000))
+proj4string(alaska) <- proj4string(us_aea)
+
+# extract, then rotate & shift hawaii
+hawaii <- us_aea[us_aea$STATEFP=="15",]
+hawaii <- elide(hawaii, rotate=-35)
+hawaii <- elide(hawaii, shift=c(5400000, -1400000))
+proj4string(hawaii) <- proj4string(us_aea)
+
+#puerto.rico <- us_aea[us_aea$STATEFP=="72",]
+#puerto.rico <- elide(puerto.rico, shift=c(0, 1400))
+#proj4string(puerto.rico) <- proj4string(us_aea)
+
+us_aea <- us_aea[!us_aea$STATEFP %in% c("02", "15", "72"),]
+us_aea <- rbind(us_aea, alaska, hawaii)#, puerto.rico)
+
+df <- read.csv('Regionalized U.S. Counties.csv', nrows=1)
+df <- read.csv('Regionalized U.S. Counties.csv', colClasses = rep('character', length(df))) %>%
+  mutate(Area.Name = as.factor(Area.Name))
+
+map <- fortify(us_aea, region="GEOID")
+```
+
+```{r area-figure, warning=FALSE, message=FALSE, error=FALSE}
+# area choropleth
+gg <- ggplot()
+gg <- gg + geom_map(data=map, map=map,
+                    aes(x=long, y=lat, map_id=id, group=group),
+                    fill="white", color="white", size=0.15)
+gg <- gg + geom_map(data=df, map=map, aes(map_id=fips, fill=Area.Name),
+                    color="white", size=0.15)
+
+gg <- gg + labs(title="U.S. Labor Markets")
+gg <- gg + coord_equal()
+gg <- gg + theme(legend.position="none", axis.title = element_blank(), axis.ticks = element_blank(), axis.text = element_blank())
+gg <- gg + theme(plot.title=element_text(size=16))
+gg
+```

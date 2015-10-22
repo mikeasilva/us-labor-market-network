@@ -5,7 +5,7 @@ import networkx as nx
 
 # Data Management Parameters
 estimate_over_moe_threshold = 0.5
-worker_threshold = 0
+worker_threshold = 100
 dont_link_to_self = True
 
 # Read in data

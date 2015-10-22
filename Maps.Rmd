@@ -5,59 +5,66 @@ output:
   html_document: 
     keep_md: yes
 ---
-This R script takes output from Gephi and draws maps.  There are three data sets: the prefered U.S. Labor Market, strict definitions and loose definitions.
+This R script takes output from Gephi and draws a map.
 
 ```{r, message=FALSE, warning=FALSE}
+library(maptools)
+library(mapproj)
+library(rgeos)
+library(rgdal)
+library(RColorBrewer)
+library(ggplot2)
 library(dplyr)
-nodes <- read.csv('U.S. Labor Market [Nodes].csv', colClasses = rep('character', 4)) %>%
+
+# https://www.census.gov/geo/maps-data/data/cbf/cbf_counties.html
+# read U.S. counties moderately-simplified GeoJSON file
+us <- readOGR(dsn="us.geojson", layer="OGRGeoJSON")
+
+# convert it to Albers equal area
+us_aea <- spTransform(us, CRS("+proj=laea +lat_0=45 +lon_0=-100 +x_0=0 +y_0=0 +a=6370997 +b=6370997 +units=m +no_defs"))
+us_aea@data$id <- rownames(us_aea@data)
+
+# extract, then rotate, shrink & move alaska (and reset projection)
+# need to use state IDs via # https://www.census.gov/geo/reference/ansi_statetables.html
+alaska <- us_aea[us_aea$STATEFP=="02",]
+alaska <- elide(alaska, rotate=-50)
+alaska <- elide(alaska, scale=max(apply(bbox(alaska), 1, diff)) / 2.3)
+alaska <- elide(alaska, shift=c(-2100000, -2500000))
+proj4string(alaska) <- proj4string(us_aea)
+
+# extract, then rotate & shift hawaii
+hawaii <- us_aea[us_aea$STATEFP=="15",]
+hawaii <- elide(hawaii, rotate=-35)
+hawaii <- elide(hawaii, shift=c(5400000, -1400000))
+proj4string(hawaii) <- proj4string(us_aea)
+
+#puerto.rico <- us_aea[us_aea$STATEFP=="72",]
+#puerto.rico <- elide(puerto.rico, shift=c(0, 1400))
+#proj4string(puerto.rico) <- proj4string(us_aea)
+
+us_aea <- us_aea[!us_aea$STATEFP %in% c("02", "15", "72"),]
+us_aea <- rbind(us_aea, alaska, hawaii)#, puerto.rico)
+
+df <- read.csv('U.S. Labor Market [Nodes].csv', colClasses = rep('character', 4)) %>%
   mutate(Class.Number = as.numeric(Modularity.Class)) %>%
   mutate(Modularity.Class = as.factor(Modularity.Class)) %>%
   arrange(Class.Number, fips)
 
-nodes.strict <- read.csv('U.S. Labor Market-Strict [Nodes].csv', colClasses = rep('character', 4)) %>%
-  mutate(Class.Number = as.numeric(Modularity.Class)) %>%
-  mutate(Modularity.Class = as.factor(Modularity.Class)) %>%
-  arrange(Class.Number, fips)
-
-nodes.loose <- read.csv('U.S. Labor Market-Loose [Nodes].csv', colClasses = rep('character', 4)) %>%
-  mutate(Class.Number = as.numeric(Modularity.Class)) %>%
-  mutate(Modularity.Class = as.factor(Modularity.Class)) %>%
-  arrange(Class.Number, fips)
+map <- fortify(us_aea, region="GEOID")
 ```
 
-This is the function that will draw the plots.  Since Puerto Rico is not included in the map I am pulling the data out.
-```{r, message=FALSE, warning=FALSE}
-library(choroplethr)
 
-print_plots <- function (df){
-  df <- df[grep('Puerto Rico', df$Label, invert=T),]
-  
-  class.numbers <- unique(df$Class.Number)
-  
-  for(class.number in class.numbers) {
-    plot <- df %>%
-      filter(Class.Number == class.number) %>%
-      rename(region = fips) %>%
-      rename(value = Class.Number) %>%
-      select(region, value) %>%
-      mutate(region = as.numeric(region)) %>%
-      county_choropleth(., title=paste0('Group Number ',class.number))
-    print(plot)
-  }  
-}
-```
+## U.S. Labor Market Map
+```{r area-figure, warning=FALSE, message=FALSE, error=FALSE}
+gg <- ggplot()
+gg <- gg + geom_map(data=map, map=map,
+                    aes(x=long, y=lat, map_id=id, group=group),
+                    fill="white", color="white", size=0.15)
+gg <- gg + geom_map(data=df, map=map, aes(map_id=fips, fill=Modularity.Class),
+                    color="white", size=0.15)
 
-## U.S. Labor Market Maps
-```{r, message=FALSE, warning=FALSE}
-print_plots(nodes)
-```
-
-## Strict U.S. Labor Market Maps
-```{r, message=FALSE, warning=FALSE}
-print_plots(nodes.strict)
-```
-
-## Loose U.S. Labor Market Maps
-```{r, message=FALSE, warning=FALSE}
-print_plots(nodes.loose)
+gg <- gg + coord_equal()
+gg <- gg + theme(legend.position="none", axis.title = element_blank(), axis.ticks = element_blank(), axis.text = element_blank(), panel.grid.major = element_blank(), panel.grid.minor = element_blank(), panel.background = element_blank())
+gg <- gg + theme(plot.title=element_text(size=16))
+gg
 ```
