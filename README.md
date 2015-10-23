@@ -31,3 +31,5 @@ These results were quickly examined in [R](https://raw.githubusercontent.com/mik
 Since not every county is classified I developed a model that determined the classification as a function of latitude and longitude.  This model used 5 classification algorithms and then used a majority rule to come up with the final classification.  I also decided to name the area after the city with the largest population in the area.  The model's output was explored using [R](https://raw.githubusercontent.com/mikeasilva/us-labor-market-network/master/U.S.%20Labor%20Market%20Model%20Map.Rmd) which can be seen below:
 
 ![U.S. Labor Market Map](us-labor-market-map.png)
+
+There is a problem with the above visualization in that there are two areas that share the same color.

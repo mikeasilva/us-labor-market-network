@@ -160,7 +160,13 @@ names.Geography = names.Geography.str.replace(' city and borough,', ',')
 names = names.rename(columns={'Geography':'Area Name'})
 
 # Merge in the named region into the data frame
-df = pd.merge(df, names)
+df = pd.merge(df, names, how='left')
+
+# Fill in the blanks with the County Names
+county_names = df[(pd.isnull(df['Area Name']))].County
+df.loc[pd.isnull(df['Area Name']), 'Area Name'] = county_names
+# Cheep Hack for odd case
+df.loc[df.pred==58, 'Area Name'] = 'Chase and Dundy County, Nebraska'
 
 # Write the output as a csv file
-df.to_csv('Regionalized U.S. Counties.csv')
+df.to_csv('Regionalized U.S. Counties.csv', index=False)
