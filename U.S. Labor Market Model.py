@@ -20,17 +20,11 @@ from sklearn.cross_validation import train_test_split
 # Make the results reproducible
 np.random.seed(42) # because the answer to everything is 42
 
-# Read in the 2010 Census list of counties
-df = pd.read_csv('DEC_10_SF1_G001_with_ann.csv', low_memory=False)
-# Since the second row has the variable names I want to use let's swap them out
-old_names = list(df.columns.values)
-new_names = list(df[:1].values[0])
-names = dict(zip(old_names, new_names))
-df = df.drop(df.index[[0]]).rename(columns=names).reindex()
-
+# Read in the 2015 Census Tiger Lines County shapefile
+df = pd.read_csv('tl_2015_us_county.csv', low_memory=False, dtype={'fips': 'S5'})
 # Subset the data, rename the columns and change variable types (data wrangling)
-df = df[['Id2', 'Geography','AREA CHARACTERISTICS - Internal Point (Latitude)','AREA CHARACTERISTICS - Internal Point (Longitude)']]
-df = df.rename(columns={'Id2':'fips', 'Geography':'County', 'AREA CHARACTERISTICS - Internal Point (Latitude)':'Latitude', 'AREA CHARACTERISTICS - Internal Point (Longitude)':'Longitude'}).reindex()
+df = df[['fips', 'NAMELSAD','INTPTLAT','INTPTLON']]
+df = df.rename(columns={'fips':'fips', 'NAMELSAD':'County', 'INTPTLAT':'Latitude', 'INTPTLON':'Longitude'}).reindex()
 df.Latitude = df.Latitude.astype(float)
 df.Longitude = df.Longitude.astype(float)
 
@@ -55,11 +49,11 @@ The individual models should print out the following scores:
 +===============+================+
 | Model Name    | Model Score    |
 +===============+================+
-| Random Forest | 0.907894736842 |
-| Extra Trees   | 0.890789473684 |
-| SVM           | 0.890789473684 |
-| Bagging       | 0.892105263158 |
-| Decision Tree | 0.889473684211 |
+| Random Forest | 0.885526315789 |
+| Extra Trees   | 0.873684210526 |
+| SVM           | 0.882894736842 |
+| Bagging       | 0.882894736842 |
+| Decision Tree | 0.848684210526 |
 +===============+================+
 """
 #  Model Number 1 - Random Forest

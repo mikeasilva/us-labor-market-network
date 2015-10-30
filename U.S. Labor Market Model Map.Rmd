@@ -4,8 +4,8 @@ author: "Mike Silva"
 date: "October 21, 2015"
 output: html_document
 ---
-
-```{r}
+Create a map that includeds Hawaii and Alaska.  I tried to include Puerto Rico but was uncessful.
+```{r, message=FALSE, warning=FALSE}
 library(maptools)
 library(mapproj)
 library(rgeos)
@@ -17,6 +17,7 @@ library(dplyr)
 # https://www.census.gov/geo/maps-data/data/cbf/cbf_counties.html
 # read U.S. counties moderately-simplified GeoJSON file
 us <- readOGR(dsn="us.geojson", layer="OGRGeoJSON")
+#us <- readOGR(dsn="E:/GIS/tl_2015_us_county", layer="tl_2015_us_county")
 
 # convert it to Albers equal area
 us_aea <- spTransform(us, CRS("+proj=laea +lat_0=45 +lon_0=-100 +x_0=0 +y_0=0 +a=6370997 +b=6370997 +units=m +no_defs"))
@@ -36,9 +37,9 @@ hawaii <- elide(hawaii, rotate=-35)
 hawaii <- elide(hawaii, shift=c(5400000, -1400000))
 proj4string(hawaii) <- proj4string(us_aea)
 
-#puerto.rico <- us_aea[us_aea$STATEFP=="72",]
-#puerto.rico <- elide(puerto.rico, shift=c(0, 1400))
-#proj4string(puerto.rico) <- proj4string(us_aea)
+puerto.rico <- us_aea[us_aea$STATEFP=="72",]
+puerto.rico <- elide(puerto.rico, shift=c(0, 1400))
+proj4string(puerto.rico) <- proj4string(us_aea)
 
 us_aea <- us_aea[!us_aea$STATEFP %in% c("02", "15", "72"),]
 us_aea <- rbind(us_aea, alaska, hawaii)#, puerto.rico)
@@ -47,11 +48,13 @@ df <- read.csv('Regionalized U.S. Counties.csv', nrows=1)
 df <- read.csv('Regionalized U.S. Counties.csv', colClasses = rep('character', length(df))) %>%
   mutate(Area.Name = as.factor(Area.Name))
 
+# Quick correction for change in South Dakota county fips
+df[df$fips=="46102",]$fips <- '46113'
+
 map <- fortify(us_aea, region="GEOID")
 ```
 
 ```{r area-figure, warning=FALSE, message=FALSE, error=FALSE}
-# area choropleth
 gg <- ggplot()
 gg <- gg + geom_map(data=map, map=map,
                     aes(x=long, y=lat, map_id=id, group=group),
@@ -59,9 +62,8 @@ gg <- gg + geom_map(data=map, map=map,
 gg <- gg + geom_map(data=df, map=map, aes(map_id=fips, fill=Area.Name),
                     color="white", size=0.15)
 
-gg <- gg + labs(title="U.S. Labor Markets")
 gg <- gg + coord_equal()
-gg <- gg + theme(legend.position="none", axis.title = element_blank(), axis.ticks = element_blank(), axis.text = element_blank())
+gg <- gg + theme(legend.position="none", axis.title = element_blank(), axis.ticks = element_blank(), axis.text = element_blank(), panel.grid.major = element_blank(), panel.grid.minor = element_blank(), panel.background = element_blank())
 gg <- gg + theme(plot.title=element_text(size=16))
 gg
 ```
