@@ -28,6 +28,9 @@ df = df.rename(columns={'fips':'fips', 'NAMELSAD':'County', 'INTPTLAT':'Latitude
 df.Latitude = df.Latitude.astype(float)
 df.Longitude = df.Longitude.astype(float)
 
+# Add in Wade Hampton County AK which is not present in the Tiger Files
+df.loc[len(df)+1]=['02270','Wade Hampton County', 62.0826229, -165.428791]
+
 # Read in the Gephi output
 nodes = pd.read_csv('U.S. Labor Market [Nodes].csv', low_memory=False,  converters={'fips': str})
 nodes = nodes[['fips','Modularity Class']]
