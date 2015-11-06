@@ -128,7 +128,7 @@ fips,County,Latitude,Longitude,bag,rf,svm,et,dt,pred1,Modularity Class,pred,Area
 13193,Macon County,32.3626859,-84.0512306,2,2,9,2,2,2,2.0,2.0,"Macon, Georgia"
 18007,Benton County,40.6009448,-87.3148463,44,4,4,12,4,4,4.0,4.0,"Evansville, Indiana"
 47129,Morgan County,36.138697,-84.6392616,42,42,42,42,42,42,42.0,42.0,"Knoxville, Tennessee"
-46043,Douglas County,43.3915064,-98.3584331,29,29,29,29,29,29,64.0,64.0,Douglas County
+46043,Douglas County,43.3915064,-98.3584331,29,29,29,29,29,29,64.0,64.0,"Charles Mix and Douglas County, South Dakota"
 24047,Worcester County,38.2221332,-75.3099315,23,23,25,23,23,23,23.0,23.0,"Philadelphia, Pennsylvania"
 17185,Wabash County,38.4458209,-87.8391674,4,4,4,4,4,4,4.0,4.0,"Evansville, Indiana"
 18069,Huntington County,40.8263938,-85.4785975,8,8,8,8,8,8,8.0,8.0,"Toledo, Ohio"
@@ -208,7 +208,7 @@ fips,County,Latitude,Longitude,bag,rf,svm,et,dt,pred1,Modularity Class,pred,Area
 01019,Cherokee County,34.0695153,-85.6542417,2,9,9,9,9,9,2.0,2.0,"Macon, Georgia"
 48019,Bandera County,29.756389,-99.2482849,35,35,35,35,35,35,35.0,35.0,"San Antonio, Texas"
 30087,Rosebud County,46.1733598,-106.6664101,46,46,46,46,46,46,46.0,46.0,"Billings, Montana"
-35059,Union County,36.4880853,-103.4757229,61,68,34,34,34,34,,34.0,Union County
+35059,Union County,36.4880853,-103.4757229,61,68,34,34,34,34,,34.0,"Dallam, Hartley and Union County, Texas"
 26153,Schoolcraft County,46.0211217,-86.197029,8,8,8,8,8,8,44.0,44.0,"Chicago, Illinois"
 36111,Ulster County,41.9472156,-74.2654583,16,16,16,16,16,16,16.0,16.0,"New York, New York"
 34007,Camden County,39.8023521,-74.9612508,23,23,23,23,23,23,23.0,23.0,"Philadelphia, Pennsylvania"
@@ -424,7 +424,7 @@ fips,County,Latitude,Longitude,bag,rf,svm,et,dt,pred1,Modularity Class,pred,Area
 51005,Alleghany County,37.7879048,-80.008669,40,40,40,40,40,40,40.0,40.0,"Roanoke, Virginia"
 28087,Lowndes County,33.4714237,-88.4397227,30,30,9,30,30,30,30.0,30.0,"Memphis, Tennessee"
 18143,Scott County,38.6794309,-85.7518981,6,6,6,6,6,6,6.0,6.0,"Lexington-Fayette, Kentucky"
-08099,Prowers County,37.9581814,-102.3921613,68,68,68,68,68,68,51.0,51.0,Prowers County
+08099,Prowers County,37.9581814,-102.3921613,68,68,68,68,68,68,51.0,51.0,"Bent and Prowers County, Colorado"
 48435,Sutton County,30.5176801,-100.5052697,68,68,68,68,68,68,68.0,68.0,"Lubbock, Texas"
 72121,Sabana Grande Municipio,18.0830004,-66.9433357,48,48,48,48,48,48,48.0,48.0,"San Juan, Puerto Rico"
 40101,Muskogee County,35.6175506,-95.3839106,20,20,20,20,20,20,20.0,20.0,"Oklahoma City, Oklahoma"
@@ -1042,7 +1042,7 @@ fips,County,Latitude,Longitude,bag,rf,svm,et,dt,pred1,Modularity Class,pred,Area
 47111,Macon County,36.5377574,-86.0009592,31,31,31,31,31,31,31.0,31.0,"Clarksville, Tennessee"
 05023,Cleburne County,35.5663146,-92.0599504,32,32,32,32,32,32,32.0,32.0,"Little Rock, Arkansas"
 01109,Pike County,31.7986508,-85.9416035,9,9,9,9,9,9,9.0,9.0,"Montgomery, Alabama"
-16003,Adams County,44.877004,-116.4616241,60,41,41,41,41,41,53.0,53.0,Adams County
+16003,Adams County,44.877004,-116.4616241,60,41,41,41,41,41,53.0,53.0,"Adams and Valley County, Idaho"
 25005,Bristol County,41.7468629,-71.0905088,14,14,14,14,14,14,14.0,14.0,"Worcester, Massachusetts"
 42107,Schuylkill County,40.703682,-76.2177878,23,23,23,23,23,23,23.0,23.0,"Philadelphia, Pennsylvania"
 38103,Wells County,47.5808812,-99.6822538,45,18,18,18,18,18,62.0,62.0,"Devils Lake, North Dakota"
@@ -1117,7 +1117,7 @@ fips,County,Latitude,Longitude,bag,rf,svm,et,dt,pred1,Modularity Class,pred,Area
 40057,Harmon County,34.745971,-99.8441936,20,20,68,20,67,20,,20.0,"Oklahoma City, Oklahoma"
 29039,Cedar County,37.7336549,-93.8500144,20,20,20,20,20,20,20.0,20.0,"Oklahoma City, Oklahoma"
 13059,Clarke County,33.9521852,-83.3671522,2,2,2,2,2,2,2.0,2.0,"Macon, Georgia"
-16085,Valley County,44.7714884,-115.6379533,60,41,3,60,60,60,53.0,53.0,Valley County
+16085,Valley County,44.7714884,-115.6379533,60,41,3,60,60,60,53.0,53.0,"Adams and Valley County, Idaho"
 48275,Knox County,33.6166569,-99.7471116,67,68,68,68,68,68,68.0,68.0,"Lubbock, Texas"
 05103,Ouachita County,33.5911595,-92.8784155,7,7,32,32,32,32,7.0,7.0,"New Orleans, Louisiana"
 39037,Darke County,40.1315416,-84.6212483,19,19,19,19,19,19,19.0,19.0,"Columbus, Ohio"
@@ -1514,7 +1514,7 @@ fips,County,Latitude,Longitude,bag,rf,svm,et,dt,pred1,Modularity Class,pred,Area
 72107,Orocovis Municipio,18.2187334,-66.4368987,48,48,48,48,48,48,48.0,48.0,"San Juan, Puerto Rico"
 36079,Putnam County,41.4279035,-73.7438816,16,16,16,16,16,16,16.0,16.0,"New York, New York"
 51700,Newport News city,37.0761659,-76.5219682,39,39,39,39,39,39,39.0,39.0,"Virginia Beach, Virginia"
-08011,Bent County,37.9318907,-103.0775841,52,52,61,52,68,52,51.0,51.0,Bent County
+08011,Bent County,37.9318907,-103.0775841,52,52,61,52,68,52,51.0,51.0,"Bent and Prowers County, Colorado"
 40065,Jackson County,34.5939486,-99.4122097,20,20,20,20,20,20,20.0,20.0,"Oklahoma City, Oklahoma"
 30089,Sanders County,47.7565002,-115.1802948,41,41,41,41,41,41,41.0,41.0,"Seattle, Washington"
 48173,Glasscock County,31.8680062,-101.5214944,68,68,68,68,68,68,,68.0,"Lubbock, Texas"
@@ -1824,7 +1824,7 @@ fips,County,Latitude,Longitude,bag,rf,svm,et,dt,pred1,Modularity Class,pred,Area
 13105,Elbert County,34.1164548,-82.8418338,2,2,26,2,2,2,2.0,2.0,"Macon, Georgia"
 01005,Barbour County,31.8702531,-85.4051035,9,9,9,9,9,9,9.0,9.0,"Montgomery, Alabama"
 37017,Bladen County,34.5919375,-78.5394885,17,17,17,17,17,17,17.0,17.0,"Charlotte, North Carolina"
-48111,Dallam County,36.2863696,-102.5940204,68,34,68,34,34,34,34.0,34.0,Dallam County
+48111,Dallam County,36.2863696,-102.5940204,68,34,68,34,34,34,34.0,34.0,"Dallam, Hartley and Union County, Texas"
 17167,Sangamon County,39.7572579,-89.6620322,12,12,12,12,12,12,12.0,12.0,"St. Louis, Missouri"
 40035,Craig County,36.7638896,-95.2015531,20,20,20,20,20,20,20.0,20.0,"Oklahoma City, Oklahoma"
 47035,Cumberland County,35.9523984,-84.9947614,31,42,42,31,31,31,31.0,31.0,"Clarksville, Tennessee"
@@ -2891,7 +2891,7 @@ fips,County,Latitude,Longitude,bag,rf,svm,et,dt,pred1,Modularity Class,pred,Area
 30105,Valley County,48.3498496,-106.6704238,46,56,56,46,56,56,56.0,56.0,"Glasgow, Montana"
 13313,Whitfield County,34.8017261,-84.968541,42,42,42,42,42,42,42.0,42.0,"Knoxville, Tennessee"
 20203,Wichita County,38.4819222,-101.3474341,68,54,54,52,68,54,,54.0,"Colby, Kansas"
-46023,Charles Mix County,43.2061853,-98.5951429,29,64,29,64,64,64,64.0,64.0,Charles Mix County
+46023,Charles Mix County,43.2061853,-98.5951429,29,64,29,64,64,64,64.0,64.0,"Charles Mix and Douglas County, South Dakota"
 31027,Cedar County,42.6045112,-97.2568241,29,29,29,29,29,29,29.0,29.0,"Omaha, Nebraska"
 53035,Kitsap County,47.6396874,-122.6496358,41,41,41,41,41,41,41.0,41.0,"Seattle, Washington"
 17111,McHenry County,42.3242982,-88.452245,44,44,44,44,44,44,44.0,44.0,"Chicago, Illinois"
@@ -3168,7 +3168,7 @@ fips,County,Latitude,Longitude,bag,rf,svm,et,dt,pred1,Modularity Class,pred,Area
 51570,Colonial Heights city,37.2616846,-77.3968043,39,39,39,39,39,39,39.0,39.0,"Virginia Beach, Virginia"
 39031,Coshocton County,40.2967096,-81.9301092,24,24,24,24,24,24,24.0,24.0,"Pittsburgh, Pennsylvania"
 31135,Perkins County,40.8576462,-101.6274676,29,29,29,29,29,29,29.0,29.0,"Omaha, Nebraska"
-48205,Hartley County,35.8402444,-102.6100473,68,68,68,68,68,68,34.0,34.0,Hartley County
+48205,Hartley County,35.8402444,-102.6100473,68,68,68,68,68,68,34.0,34.0,"Dallam, Hartley and Union County, Texas"
 08049,Grand County,40.1232049,-106.0959348,52,52,52,52,52,52,52.0,52.0,"Aurora, Colorado"
 48249,Jim Wells County,27.7335157,-98.0908141,35,35,35,35,35,35,35.0,35.0,"San Antonio, Texas"
 19189,Winnebago County,43.3781243,-93.7434883,45,45,45,45,45,45,45.0,45.0,"Minneapolis, Minnesota"

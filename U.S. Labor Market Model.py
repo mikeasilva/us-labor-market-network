@@ -163,8 +163,12 @@ df = pd.merge(df, names, how='left')
 # Fill in the blanks with the County Names
 county_names = df[(pd.isnull(df['Area Name']))].County
 df.loc[pd.isnull(df['Area Name']), 'Area Name'] = county_names
-# Cheep Hack for odd case
+# Cheep Hack for odd cases
+df.loc[df.pred==34, 'Area Name'] = 'Dallam, Hartley and Union County, Texas'
+df.loc[df.pred==51, 'Area Name'] = 'Bent and Prowers County, Colorado'
+df.loc[df.pred==53, 'Area Name'] = 'Adams and Valley County, Idaho'
 df.loc[df.pred==58, 'Area Name'] = 'Chase and Dundy County, Nebraska'
+df.loc[df.pred==64, 'Area Name'] = 'Charles Mix and Douglas County, South Dakota'
 
 # Write the output as a csv file
 df.to_csv('Regionalized U.S. Counties.csv', index=False)
