@@ -44,9 +44,13 @@ proj4string(puerto.rico) <- proj4string(us_aea)
 us_aea <- us_aea[!us_aea$STATEFP %in% c("02", "15", "72"),]
 us_aea <- rbind(us_aea, alaska, hawaii)#, puerto.rico)
 
+colors <- read.csv('colors.csv', colClasses = rep('character',2)) %>%
+  mutate(pred=as.numeric(pred))
 df <- read.csv('Regionalized U.S. Counties.csv', nrows=1)
 df <- read.csv('Regionalized U.S. Counties.csv', colClasses = rep('character', length(df))) %>%
-  mutate(Area.Name = as.factor(Area.Name))
+  mutate(pred = as.numeric(pred)) %>%
+  merge(.,colors, all.x = TRUE)
+  
 
 # Quick correction for change in South Dakota county fips
 df[df$fips=="46102",]$fips <- '46113'
@@ -59,7 +63,7 @@ gg <- ggplot()
 gg <- gg + geom_map(data=map, map=map,
                     aes(x=long, y=lat, map_id=id, group=group),
                     fill="white", color="white", size=0.15)
-gg <- gg + geom_map(data=df, map=map, aes(map_id=fips, fill=Area.Name),
+gg <- gg + geom_map(data=df, map=map, aes(map_id=fips, fill=Color),
                     color="white", size=0.15)
 
 gg <- gg + coord_equal()
