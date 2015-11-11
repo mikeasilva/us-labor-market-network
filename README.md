@@ -27,9 +27,7 @@ These results were quickly examined in [R](https://raw.githubusercontent.com/mik
 
 ![Modularity Map](gephi-modularity-class-map.png)
 
-### Classification Model
-Since not every county is classified I developed a model that determined the classification as a function of latitude and longitude.  This model used 5 classification algorithms and then used a majority rule to come up with the final classification.  I used this classification model to fill in the blanks.  
-
-I also decided to name the area after the city with the largest population in the area.  The model's output was visualized using [R](https://raw.githubusercontent.com/mikeasilva/us-labor-market-network/master/U.S.%20Labor%20Market%20Model%20Map.Rmd) which can be seen below (Note: I have lightened the counties that were estimated using the classification model):
+### Filling in the Holes
+Since not every county is classified by Gephi I had to fill in missing data.  I did this by falling back to the CTPP data.  For each county not classified I looked at what counties they were connected to (either have resident who work in another county or are the workplace to other residents).  The connected counties might have been classified by Gephi.  Which ever area the unclassified county was most connected to was the county I assigned it to.  There was only one county that didn't have any information.  The following map shows the counties classified into their areas.  Those that weren't classified by Gephi are lighter in color.
 
 ![U.S. Labor Market Map](us-labor-market-map.png)
