@@ -12,7 +12,7 @@ dont_link_to_self = True
 df = pd.read_csv('Job_4393.csv', low_memory=False, skiprows=2, thousands=',')
 
 # Change 'Workers 16 and Over' to numeric
-df['Workers 16 and Over'] = df['Workers 16 and Over'].convert_objects(convert_numeric=True)
+df['Workers 16 and Over'] = pd.to_numeric(df['Workers 16 and Over'])
 
 # Only pull the first 4 columns of data
 df = df.iloc[:,0:4]
@@ -89,3 +89,4 @@ nx.set_node_attributes(G, 'fips', fips)
 
 # Write the graph to files
 nx.write_graphml(G,'U.S. Labor Market.graphml')
+nx.write_weighted_edgelist(G,'U.S. Labor Market.edgelist')
